@@ -1,0 +1,1001 @@
+Movie,Directors,Ranking
+Citizen Kane,Orson Welles,1
+Vertigo,Alfred Hitchcock,2
+2001: A Space Odyssey,Stanley Kubrick,3
+The Rules of the Game,Jean Renoir,4
+Tokyo Story,Yasujiro Ozu,5
+The Godfather,Francis Ford Coppola,6
+8_½ ,Federico Fellini,7
+Sunrise,F.W. Murnau,8
+The Searchers,John Ford,9
+Seven Samurai,Akira Kurosawa,10
+Apocalypse Now,Francis Ford Coppola,11
+Singin' in the Rain,Stanley Donen & Gene Kelly,12
+Bicycle Thieves,Vittorio De Sica,13
+Battleship Potemkin,Sergei Eisenstein,14
+Taxi Driver,Martin Scorsese,15
+The Passion of Joan of Arc,Carl Theodor Dreyer,16
+Breathless,Jean-Luc Godard,17
+L'Atalante,Jean Vigo,18
+Persona,Ingmar Bergman,19
+Rashomon,Akira Kurosawa,20
+The Godfather Part II,Francis Ford Coppola,21
+Man with a Movie Camera,Dziga Vertov,22
+Raging Bull,Martin Scorsese,23
+City Lights,Charles Chaplin,24
+The 400 Blows ,François Truffaut,25
+Psycho,Alfred Hitchcock,26
+Andrei Rublev,Andrei Tarkovsky,27
+Some Like it Hot,Billy Wilder,28
+The Mirror,Andrei Tarkovsky,29
+Touch of Evil,Orson Welles,30
+La Dolce vita,Federico Fellini,31
+Casablanca,Michael Curtiz,32
+Lawrence of Arabia,David Lean,33
+Ordet,Carl Theodor Dreyer,34
+Au hasard Balthazar,Robert Bresson,35
+Sunset Blvd.,Billy Wilder,36
+L'Avventura,Michelangelo Antonioni,37
+The General,Buster Keaton & Clyde Bruckman,38
+Blade Runner,Ridley Scott,39
+Contempt,Jean-Luc Godard,40
+Rear Window,Alfred Hitchcock,41
+La Grande illusion,Jean Renoir,42
+The Night of the Hunter,Charles Laughton,43
+Modern Times,Charles Chaplin,44
+In the Mood for Love,Wong Kar-wai,45
+The Third Man,Carol Reed,46
+Playtime,Jacques Tati,47
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,48
+Chinatown,Roman Polanski,49
+Ugetsu monogatari,Kenji Mizoguchi,50
+Barry Lyndon,Stanley Kubrick,51
+The Apartment,Billy Wilder,52
+M,Fritz Lang,53
+Rio Bravo,Howard Hawks,54
+Fanny and Alexander,Ingmar Bergman,55
+Wild Strawberries,Ingmar Bergman,56
+Metropolis,Fritz Lang,57
+Stalker,Andrei Tarkovsky,58
+Pather Panchali,Satyajit Ray,59
+North by Northwest,Alfred Hitchcock,60
+Mulholland Dr.,David Lynch,61
+The Wild Bunch,Sam Peckinpah,62
+Les Enfants du paradis,Marcel Carné,63
+Once Upon a Time in the West,Sergio Leone,64
+Pierrot le fou,Jean-Luc Godard,65
+The Battle of Algiers,Gillo Pontecorvo,66
+The Gold Rush,Charles Chaplin,67
+Shoah,Claude Lanzmann,68
+La Strada,Federico Fellini,69
+The Magnificent Ambersons,Orson Welles,70
+The Seventh Seal,Ingmar Bergman,71
+Amarcord,Federico Fellini,72
+Late Spring,Yasujiro Ozu,73
+Voyage in Italy,Roberto Rossellini,74
+Pulp Fiction,Quentin Tarantino,75
+Viridiana,Luis Buñuel,76
+GoodFellas,Martin Scorsese,77
+The Leopard,Luchino Visconti,78
+It's a Wonderful Life,Frank Capra,79
+Blue Velvet,David Lynch,80
+Pickpocket,Robert Bresson,81
+A Clockwork Orange,Stanley Kubrick,82
+Gertrud,Carl Theodor Dreyer,83
+The Conformist,Bernardo Bertolucci,84
+Jules et Jim,François Truffaut,85
+Annie Hall,Woody Allen,86
+Nashville,Robert Altman,87
+Close-Up,Abbas Kiarostami,88
+A Man Escaped,Robert Bresson,89
+The Man Who Shot Liberty Valance,John Ford,90
+Last Year at Marienbad,Alain Resnais,91
+Greed,Erich von Stroheim,92
+Sansho the Bailiff,Kenji Mizoguchi,93
+The Shining,Stanley Kubrick,94
+Jaws,Steven Spielberg,95
+"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",Chantal Akerman,96
+Aguirre: The Wrath of God,Werner Herzog,97
+Blowup,Michelangelo Antonioni,98
+Sans soleil,Chris Marker,99
+S_¡t_¡ntang_³,Béla Tarr,100
+To Be or Not to Be,Ernst Lubitsch,101
+Once Upon a Time in America,Sergio Leone,102
+The Wizard of Oz,Victor Fleming,103
+A Woman Under the Influence,John Cassavetes,104
+Intolerance,D.W. Griffith,105
+Manhattan,Woody Allen,106
+The Mother and the Whore,Jean Eustache,107
+L'Eclisse,Michelangelo Antonioni,108
+La Jet_©e,Chris Marker,109
+Gone with the Wind,Victor Fleming,110
+The Spirit of the Beehive,Victor Erice,111
+Hiroshima mon amour,Alain Resnais,112
+Ikiru,Akira Kurosawa,113
+Bringing Up Baby,Howard Hawks,114
+Sherlock Jr.,Buster Keaton,115
+Star Wars,George Lucas,116
+All About Eve,Joseph L. Mankiewicz,117
+E.T. The Extra-Terrestrial,Steven Spielberg,118
+One Flew Over the Cuckoo's Nest,Milos Forman,119
+Madame de...,Max Ophüls,120
+My Darling Clementine,John Ford,121
+Letter from an Unknown Woman,Max Ophüls,122
+L'__ge d'or,Luis Buñuel,123
+Don't Look Now,Nicolas Roeg,124
+Badlands,Terrence Malick,125
+Vivre sa vie,Jean-Luc Godard,126
+A Brighter Summer Day,Edward Yang,127
+Alien,Ridley Scott,128
+Notorious,Alfred Hitchcock,129
+Partie de campagne,Jean Renoir,130
+Yi yi,Edward Yang,131
+Los Olvidados,Luis Buñuel,132
+"Rome, Open City",Roberto Rossellini,133
+Nosferatu,F.W. Murnau,134
+The Lady Eve,Preston Sturges,135
+Un Chien andalou,Luis Buñuel,136
+Double Indemnity,Billy Wilder,137
+Ali: Fear Eats the Soul,Rainer Werner Fassbinder,138
+The Exterminating Angel,Luis Buñuel,139
+Days of Heaven,Terrence Malick,140
+His Girl Friday,Howard Hawks,141
+The Conversation,Francis Ford Coppola,142
+Stagecoach,John Ford,143
+A Matter of Life and Death,Michael Powell & Emeric Pressburger,144
+Do the Right Thing,Spike Lee,145
+Trouble in Paradise,Ernst Lubitsch,146
+Rosemary's Baby,Roman Polanski,147
+Brief Encounter,David Lean,148
+Histoire(s) du  cin_©ma,Jean-Luc Godard,149
+On the Waterfront,Elia Kazan,150
+The Gospel According to St. Matthew,Pier Paolo Pasolini,151
+Beau travail,Claire Denis,152
+"The Good, the Bad and the Ugly",Sergio Leone,153
+Duck Soup,Leo McCarey,154
+Cries and Whispers,Ingmar Bergman,155
+Come and See,Elem Klimov,156
+Chimes at Midnight,Orson Welles,157
+The Discreet Charm of the Bourgeoisie,Luis Buñuel,158
+L'Argent,Robert Bresson,159
+The Deer Hunter,Michael Cimino,160
+The Passenger,Michelangelo Antonioni,161
+King Kong,Merian C. Cooper & Ernest B. Schoedsack,162
+The River,Jean Renoir,163
+The Red Shoes,Michael Powell & Emeric Pressburger,164
+Black Narcissus,Michael Powell & Emeric Pressburger,165
+The Grapes of Wrath,John Ford,166
+Napol_©on,Abel Gance,167
+Mouchette,Robert Bresson,168
+Dekalog,Krzysztof Kieslowski,169
+Imitation of Life,Douglas Sirk,170
+Earth,Alexander Dovzhenko,171
+The Umbrellas of Cherbourg,Jacques Demy,172
+The Life and Death of Colonel Blimp,Michael Powell & Emeric Pressburger,173
+There Will Be Blood,Paul Thomas Anderson,174
+The Great Dictator,Charles Chaplin,175
+Rocco and His Brothers,Luchino Visconti,176
+Brazil,Terry Gilliam,177
+Celine and Julie Go Boating,Jacques Rivette,178
+The Travelling Players,Theo Angelopoulos,179
+Out of the Past,Jacques Tourneur,180
+The Last Laugh,F.W. Murnau,181
+Spring in a Small Town,Fei Mu,182
+Sweet Smell of Success,Alexander Mackendrick,183
+Belle de jour,Luis Buñuel,184
+The Birds,Alfred Hitchcock,185
+Performance,Nicolas Roeg & Donald Cammell,186
+The Best Years of Our Lives,William Wyler,187
+Kes,Ken Loach,188
+Umberto D.,Vittorio De Sica,189
+Ran,Akira Kurosawa,190
+Night and Fog,Alain Resnais,191
+The Texas Chainsaw Massacre,Tobe Hooper,192
+Red River,Howard Hawks,193
+Fargo,Joel Coen & Ethan Coen,194
+Close Encounters of the Third Kind,Steven Spielberg,195
+The Thin Red Line,Terrence Malick,196
+The Quiet Man,John Ford,197
+Death in Venice,Luchino Visconti,198
+The Piano,Jane Campion,199
+Nights of Cabiria,Federico Fellini,200
+Cach_©,Michael Haneke,201
+"Sal_², or the 120 Days of Sodom",Pier Paolo Pasolini,202
+Spirited Away,Hayao Miyazaki,203
+Le Samoura_¯,Jean-Pierre Melville,204
+Nanook of the North,Robert Flaherty,205
+Chungking Express,Wong Kar-wai,206
+McCabe & Mrs. Miller,Robert Altman,207
+A City of Sadness,Hou Hsiao-hsien,208
+Schindler's List,Steven Spielberg,209
+"Ivan the Terrible, Part 2",Sergei Eisenstein,210
+Breaking the Waves,Lars von Trier,211
+Paisan,Roberto Rossellini,212
+Wings of Desire,Wim Wenders,213
+The Exorcist ,William Friedkin,214
+The Graduate,Mike Nichols,215
+Sullivan's Travels,Preston Sturges,216
+Raiders of the Lost Ark,Steven Spielberg,217
+Two or Three Things I Know About Her,Jean-Luc Godard,218
+The Cabinet of Dr. Caligari,Robert Wiene,219
+Wavelength,Michael Snow,220
+Ashes and Diamonds,Andrzej Wajda,221
+Vampyr,Carl Theodor Dreyer,222
+The Big Lebowski,Joel Coen & Ethan Coen,223
+Kind Hearts and Coronets,Robert Hamer,224
+Meet Me in St. Louis,Vincente Minnelli,225
+The Treasure of the Sierra Madre,John Huston,226
+The Crowd,King Vidor,227
+Solaris,Andrei Tarkovsky,228
+Diary of a Country Priest,Robert Bresson,229
+Groundhog Day,Harold Ramis,230
+The Colour of Pomegranate,Sergei Parajanov,231
+"Black God, White Devil",Glauber Rocha,232
+Unforgiven,Clint Eastwood,233
+Only Angels Have Wings,Howard Hawks,234
+Bonnie and Clyde,Arthur Penn,235
+El Verdugo,Luis García Berlanga,236
+"Germany, Year Zero",Roberto Rossellini,237
+Eternal Sunshine of the Spotless Mind,Michel Gondry,238
+Mean Streets,Martin Scorsese,239
+The Tree of Life,Terrence Malick,240
+The Life of Oharu,Kenji Mizoguchi,241
+Johnny Guitar,Nicholas Ray,242
+Tabu,F.W. Murnau,243
+Meshes of the Afternoon,Maya Deren & Alexander Hammid,244
+The Band Wagon,Vincente Minnelli,245
+Magnolia,Paul Thomas Anderson,246
+The Thin Blue Line,Errol Morris,247
+Zero for Conduct,Jean Vigo,248
+"Paris, Texas",Wim Wenders,249
+The Shop Around the Corner,Ernst Lubitsch,250
+Tropical Malady,Apichatpong Weerasethakul,251
+Three Colours: Red,Krzysztof Kieslowski,252
+Floating Clouds,Mikio Naruse,253
+"Ivan the Terrible, Part 1",Sergei Eisenstein,254
+La Notte,Michelangelo Antonioni,255
+Night of the Living Dead,George A. Romero,256
+Crimes and Misdemeanors,Woody Allen,257
+Three Colours: Blue,Krzysztof Kieslowski,258
+"Distant Voices, Still Lives",Terence Davies,259
+Faces,John Cassavetes,260
+The Story of the Last Chrysanthemums,Kenji Mizoguchi,261
+My Neighbour Totoro,Hayao Miyazaki,262
+Broken Blossoms,D.W. Griffith,263
+My Night at Maud's,Eric Rohmer,264
+Paths of Glory,Stanley Kubrick,265
+The Wages of Fear,Henri-Georges Clouzot,266
+F for Fake,Orson Welles,267
+Throne of Blood,Akira Kurosawa,268
+In a Lonely Place,Nicholas Ray,269
+Freaks,Tod Browning,270
+Week-End,Jean-Luc Godard,271
+Pandora's Box,G.W. Pabst,272
+Love Streams,John Cassavetes,273
+Memories of Underdevelopment,Tomás Gutiérrez Alea,274
+Cinema Paradiso,Giuseppe Tornatore,275
+Monsieur Verdoux,Charles Chaplin,276
+La Belle et la b_ªte,Jean Cocteau,277
+Eraserhead,David Lynch,278
+The Maltese Falcon,John Huston,279
+The Birth of a Nation,D.W. Griffith,280
+The Big Sleep,Howard Hawks,281
+The Empire Strikes Back,Irvin Kershner,282
+An Autumn Afternoon,Yasujiro Ozu,283
+Kings of the Road,Wim Wenders,284
+The Music Room,Satyajit Ray,285
+The Matrix,Lana Wachowski & Lilly Wachowski,286
+Underground,Emir Kusturica,287
+The World of Apu,Satyajit Ray,288
+Husbands,John Cassavetes,289
+The Sacrifice,Andrei Tarkovsky,290
+Touki Bouki,Djibril Diop Mambéty,291
+All About My Mother,Pedro Almodóvar,292
+The Philadelphia Story,George Cukor,293
+Day of Wrath,Carl Theodor Dreyer,294
+Berlin Alexanderplatz,Rainer Werner Fassbinder,295
+The Thing,John Carpenter,296
+Peeping Tom,Michael Powell,297
+Mr. Hulot's Holiday,Jacques Tati,298
+Harold and Maude,Hal Ashby,299
+The Kid,Charles Chaplin,300
+A Canterbury Tale,Michael Powell & Emeric Pressburger,301
+Videodrome,David Cronenberg,302
+Red Desert,Michelangelo Antonioni,303
+Cabaret,Bob Fosse,304
+This is Spinal Tap,Rob Reiner,305
+The Last Picture Show,Peter Bogdanovich,306
+Killer of Sheep,Charles Burnett,307
+Orpheus,Jean Cocteau,308
+Snow White and the Seven Dwarfs,David Hand,309
+Terra em Transe,Glauber Rocha,310
+Back to the Future,Robert Zemeckis,311
+Reservoir Dogs,Quentin Tarantino,312
+Dawn of the Dead,George A. Romero,313
+To Kill a Mockingbird,Robert Mulligan,314
+The Time to Live and the Time to Die,Hou Hsiao-hsien,315
+The Puppetmaster,Hou Hsiao-hsien,316
+Where is the Friend's Home?,Abbas Kiarostami,317
+West Side Story,Robert Wise & Jerome Robbins,318
+Amadeus,Milos Forman,319
+Bride of Frankenstein,James Whale,320
+Listen to Britain,Humphrey Jennings,321
+Dog Day Afternoon,Sidney Lumet,322
+Lola Mont_¨s,Max Ophüls,323
+How Green Was My Valley,John Ford,324
+Eyes Wide Shut,Stanley Kubrick,325
+Midnight Cowboy,John Schlesinger,326
+Make Way for Tomorrow,Leo McCarey,327
+The Killing of a Chinese Bookie,John Cassavetes,328
+It Happened One Night,Frank Capra,329
+City of God,Fernando Meirelles & Kátia Lund,330
+Kiss Me Deadly,Robert Aldrich,331
+In the Realm of the Senses,Nagisa Oshima,332
+The Crime of Monsieur Lange,Jean Renoir,333
+Marnie,Alfred Hitchcock,334
+El,Luis Buñuel,335
+Written on the Wind,Douglas Sirk,336
+The Green Ray,Eric Rohmer,337
+Russian Ark,Aleksandr Sokurov,338
+Lost Highway,David Lynch,339
+October,Sergei Eisenstein & Grigori Aleksandrov,340
+A Touch of Zen,King Hu,341
+"I Was Born, Butâ_¦",Yasujiro Ozu,342
+Happy Together,Wong Kar-wai,343
+Werckmeister Harmonies,Béla Tarr,344
+Heat,Michael Mann,345
+Eyes Without a Face,Georges Franju,346
+I Am Cuba,Mikhail Kalatozov,347
+Through the Olive Trees,Abbas Kiarostami,348
+Cl_©o from 5 to 7,Agnès Varda,349
+Stromboli,Roberto Rossellini,350
+The King of Comedy,Martin Scorsese,351
+The Palm Beach Story,Preston Sturges,352
+Last Tango in Paris,Bernardo Bertolucci,353
+Landscape in the Mist,Theo Angelopoulos,354
+In a Year with 13 Moons,Rainer Werner Fassbinder,355
+High Noon,Fred Zinnemann,356
+Shoot the Piano Player,François Truffaut,357
+All That Heaven Allows,Douglas Sirk,358
+Woman in the Dunes,Hiroshi Teshigahara,359
+Tie Xi Qu: West of the Tracks,Wang Bing,360
+Le Voyage dans la lune,Georges Méliès,361
+Quince Tree of the Sun,Victor Erice,362
+Teorema,Pier Paolo Pasolini,363
+Wanda,Barbara Loden,364
+Nostalghia,Andrei Tarkovsky,365
+The Tenant,Roman Polanski,366
+The Silence of the Lambs,Jonathan Demme,367
+Stranger Than Paradise,Jim Jarmusch,368
+Butch Cassidy and the Sundance Kid,George Roy Hill,369
+Ivan's Childhood,Andrei Tarkovsky,370
+Tristana,Luis Buñuel,371
+Aliens,James Cameron,372
+Days of Being Wild,Wong Kar-wai,373
+Don't Look Back,D.A. Pennebaker,374
+Network,Sidney Lumet,375
+An Affair to Remember,Leo McCarey,376
+The Double Life of Veronique,Krzysztof Kieslowski,377
+Festen,Thomas Vinterberg,378
+The Bridge on the River Kwai,David Lean,379
+If....,Lindsay Anderson,380
+Dogville,Lars von Trier,381
+Salvatore Giuliano,Francesco Rosi,382
+High and Low,Akira Kurosawa,383
+Brokeback Mountain,Ang Lee,384
+Fitzcarraldo,Werner Herzog,385
+Man of Aran,Robert Flaherty,386
+The Shawshank Redemption,Frank Darabont,387
+The Hustler,Robert Rossen,388
+Army of Shadows,Jean-Pierre Melville,389
+The Innocents,Jack Clayton,390
+The Young Girls of Rochefort,Jacques Demy,391
+1900,Bernardo Bertolucci,392
+Yojimbo,Akira Kurosawa,393
+Suspiria,Dario Argento,394
+Heaven's Gate,Michael Cimino,395
+Fight Club,David Fincher,396
+"The Cloud-Capped Star	",Ritwik Ghatak,397
+Carrie,Brian De Palma,398
+WALL-E,Andrew Stanton,399
+Daisies,Vera Chytilová,400
+I Know Where I'm Going!,Michael Powell & Emeric Pressburger,401
+Shadows,John Cassavetes,402
+Raise the Red Lantern,Zhang Yimou,403
+Monty Python's Life of Brian,Terry Jones,404
+A Star is Born,George Cukor,405
+"Out 1, noli me tangere",Jacques Rivette,406
+Chelsea Girls,Andy Warhol,407
+The Awful Truth,Leo McCarey,408
+Scenes from a Marriage,Ingmar Bergman,409
+French Cancan,Jean Renoir,410
+Day for Night,François Truffaut,411
+Charulata,Satyajit Ray,412
+The Dead,John Huston,413
+Dead Ringers,David Cronenberg,414
+A Moment of Innocence,Mohsen Makhmalbaf,415
+Early Summer,Yasujiro Ozu,416
+The White Ribbon,Michael Haneke,417
+Hour of the Wolf,Ingmar Bergman,418
+Barren Lives,Nelson Pereira dos Santos,419
+The Cameraman,Buster Keaton & Edward Sedgwick,420
+Mon oncle,Jacques Tati,421
+Taste of Cherry,Abbas Kiarostami,422
+The House is Black,Forugh Farrokhzad,423
+Five Easy Pieces,Bob Rafelson,424
+The Long Goodbye,Robert Altman,425
+Two-Lane Blacktop,Monte Hellman,426
+Land Without Bread,Luis Buñuel,427
+__ nos amours,Maurice Pialat,428
+Opening Night,John Cassavetes,429
+Talk to Her,Pedro Almodóvar,430
+Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,431
+Le Plaisir,Max Ophüls,432
+The Tree of Wooden Clogs,Ermanno Olmi,433
+The Hour of the Furnaces,Fernando E. Solanas & Octavio Getino,434
+The Gleaners & I,Agnès Varda,435
+The Elephant Man,David Lynch,436
+The Sound of Music,Robert Wise,437
+Masculin Feminin,Jean-Luc Godard,438
+Closely Watched Trains,Jirí Menzel,439
+Pyaasa,Guru Dutt,440
+Yellow Earth,Chen Kaige,441
+Punch-Drunk Love,Paul Thomas Anderson,442
+Withnail & I,Bruce Robinson,443
+To Have and Have Not,Howard Hawks,444
+Dersu Uzala,Akira Kurosawa,445
+Koyaanisqatsi,Godfrey Reggio,446
+The Turin Horse,Béla Tarr,447
+Kagemusha,Akira Kurosawa,448
+The Lady from Shanghai,Orson Welles,449
+"Crouching Tiger, Hidden Dragon",Ang Lee,450
+The Sorrow and the Pity,Marcel Ophüls,451
+The Death of Mr. Lazarescu,Cristi Puiu,452
+A Night at the Opera,Sam Wood,453
+Platform,Jia Zhangke,454
+The Terminator,James Cameron,455
+Toy Story,John Lasseter,456
+Halloween,John Carpenter,457
+Some Came Running,Vincente Minnelli,458
+Senso,Luchino Visconti,459
+The Wind,Victor Sjöström,460
+Muriel,Alain Resnais,461
+Strangers on a Train,Alfred Hitchcock,462
+Easy Rider,Dennis Hopper,463
+Marketa Lazarov_¡,Frantisek Vlácil,464
+Mad Max 2,George Miller,465
+Elephant,Gus Van Sant,466
+Boogie Nights,Paul Thomas Anderson,467
+Shane,George Stevens,468
+The Scarlet Empress,Josef von Sternberg,469
+The Wind Will Carry Us,Abbas Kiarostami,470
+Fantasia,Various Directors,471
+Grey Gardens,"David Maysles, Albert Maysles, Ellen Hovde & Muffie Meyer",472
+Alexander Nevsky,Sergei Eisenstein,473
+Oldboy,Park Chan-wook,474
+12 Angry Men,Sidney Lumet,475
+The Cranes Are Flying,Mikhail Kalatozov,476
+Shadow of a Doubt,Alfred Hitchcock,477
+Safe,Todd Haynes,478
+Short Cuts,Robert Altman,479
+Gimme Shelter,"Albert Maysles, David Maysles & Charlotte Zwerin",480
+Tootsie,Sydney Pollack,481
+All That Jazz,Bob Fosse,482
+La R_©gion centrale,Michael Snow,483
+Top Hat,Mark Sandrich,484
+Naked,Mike Leigh,485
+Les Vampires,Louis Feuillade,486
+Limelight,Charles Chaplin,487
+The Flowers of St. Francis,Roberto Rossellini,488
+Repulsion,Roman Polanski,489
+Accattone,Pier Paolo Pasolini,490
+India Song,Marguerite Duras,491
+Winter Light,Ingmar Bergman,492
+The Lives of Others,Florian Henckel von Donnersmarck,493
+All the President's Men,Alan J. Pakula,494
+Pinocchio,Ben Sharpsteen & Hamilton Luske,495
+Chronicle of a Summer,Jean Rouch & Edgar Morin,496
+Lost in Translation,Sofia Coppola,497
+The Enigma of Kaspar Hauser,Werner Herzog,498
+Triumph of the Will,Leni Riefenstahl,499
+Melancholia,Lars von Trier,500
+Dead Man,Jim Jarmusch,501
+Lola,Jacques Demy,502
+"Steamboat Bill, Jr.",Buster Keaton & Charles Reisner,503
+The Phantom of Liberty,Luis Buñuel,504
+Wagon Master,John Ford,505
+Casino,Martin Scorsese,506
+Shadows of Our Forgotten Ancestors,Sergei Parajanov,507
+Flowers of Shanghai,Hou Hsiao-hsien,508
+Hoop Dreams,Steve James,509
+Miracle in Milan,Vittorio De Sica,510
+Point Blank,John Boorman,511
+Frankenstein,James Whale,512
+The Big Heat,Fritz Lang,513
+Forrest Gump,Robert Zemeckis,514
+Pat Garrett and Billy the Kid,Sam Peckinpah,515
+The Bitter Tears of Petra von Kant,Rainer Werner Fassbinder,516
+Barton Fink,Joel Coen & Ethan Coen,517
+Tale of Tales,Yuriy Norshteyn,518
+Hannah and Her Sisters,Woody Allen,519
+The Silence,Ingmar Bergman,520
+The Rise to Power of Louis XIV,Roberto Rossellini,521
+A.I. Artificial Intelligence,Steven Spielberg,522
+Alphaville,Jean-Luc Godard,523
+The Damned,Luchino Visconti,524
+The Wedding March,Erich von Stroheim,525
+In Vanda's Room,Pedro Costa,526
+The Devils,Ken Russell,527
+East of Eden,Elia Kazan,528
+Rebel Without a Cause,Nicholas Ray,529
+Doctor Zhivago,David Lean,530
+Bigger Than Life,Nicholas Ray,531
+The Servant,Joseph Losey,532
+A Separation,Asghar Farhadi,533
+La Terra trema,Luchino Visconti,534
+Pl_¡cido,Luis García Berlanga,535
+"Farewell, My Concubine",Chen Kaige,536
+Down by Law,Jim Jarmusch,537
+Inland Empire,David Lynch,538
+Being There,Hal Ashby,539
+Providence,Alain Resnais,540
+Loves of a Blonde,Milos Forman,541
+Colossal Youth,Pedro Costa,542
+Am_©lie,Jean-Pierre Jeunet,543
+Laura,Otto Preminger,544
+That Obscure Object of Desire,Luis Buñuel,545
+Picnic at Hanging Rock,Peter Weir,546
+Our Hospitality,Buster Keaton & John G. Blystone,547
+Cat People,Jacques Tourneur,548
+Ninotchka,Ernst Lubitsch,549
+Pan's Labyrinth,Guillermo del Toro,550
+No Country for Old Men,Joel Coen & Ethan Coen,551
+Bring Me the Head of Alfredo Garcia,Sam Peckinpah,552
+My Own Private Idaho,Gus Van Sant,553
+Splendor in the Grass,Elia Kazan,554
+Trainspotting,Danny Boyle,555
+"The Devil, Probably",Robert Bresson,556
+Grizzly Man,Werner Herzog,557
+Boudu Saved from Drowning,Jean Renoir,558
+Deliverance,John Boorman,559
+The Asphalt Jungle,John Huston,560
+I Vitelloni,Federico Fellini,561
+Faust,F.W. Murnau,562
+Aparajito,Satyajit Ray,563
+Songs from the Second Floor,Roy Andersson,564
+Die Hard,John McTiernan,565
+Scorpio Rising,Kenneth Anger,566
+Ben-Hur,William Wyler,567
+Secrets & Lies,Mike Leigh,568
+Limite,Mario Peixoto,569
+The French Connection,William Friedkin,570
+Hana-bi,Takeshi Kitano,571
+Salesman,"Albert Maysles, David Maysles & Charlotte Zwerin",572
+A Hard Day's Night,Richard Lester,573
+The Royal Tenenbaums,Wes Anderson,574
+Rocky,John G. Avildsen,575
+Alice in the Cities,Wim Wenders,576
+Hatari!,Howard Hawks,577
+Nazar_­n,Luis Buñuel,578
+Rushmore,Wes Anderson,579
+Fellini Satyricon,Federico Fellini,580
+Detour,Edgar G. Ulmer,581
+Love Me Tonight,Rouben Mamoulian,582
+And Life Goes Onâ_¦,Abbas Kiarostami,583
+Rosetta,Jean-Pierre Dardenne & Luc Dardenne,584
+The Lady Vanishes,Alfred Hitchcock,585
+Full Metal Jacket,Stanley Kubrick,586
+I Walked with a Zombie,Jacques Tourneur,587
+The Blue Angel,Josef von Sternberg,588
+The Red Circle,Jean-Pierre Melville,589
+Walkabout,Nicolas Roeg,590
+"Dr. Mabuse, The Gambler",Fritz Lang,591
+Scarface,Brian De Palma,592
+The Manchurian Candidate,John Frankenheimer,593
+Silent Light,Carlos Reygadas,594
+Arrebato,Iván Zulueta,595
+Memento,Christopher Nolan,596
+Rebecca,Alfred Hitchcock,597
+The Killing,Stanley Kubrick,598
+Blissfully Yours,Apichatpong Weerasethakul,599
+Bande __ part,Jean-Luc Godard,600
+Twenty Years Later,Eduardo Coutinho,601
+Evil Dead II,Sam Raimi,602
+Dancer in the Dark,Lars von Trier,603
+Les Amants du Pont-Neuf,Leos Carax,604
+Great Expectations,David Lean,605
+The 39 Steps,Alfred Hitchcock,606
+Seven Chances,Buster Keaton,607
+Local Hero,Bill Forsyth,608
+Young Frankenstein,Mel Brooks,609
+The Purple Rose of Cairo,Woody Allen,610
+"Goodbye, Dragon Inn",Tsai Ming-liang,611
+La Belle noiseuse,Jacques Rivette,612
+The African Queen,John Huston,613
+Foolish Wives,Erich von Stroheim,614
+They Live by Night,Nicholas Ray,615
+Raising Arizona,Joel Coen & Ethan Coen,616
+By the Bluest of Seas,Boris Barnet,617
+Requiem for a Dream,Darren Aronofsky,618
+The Fly,David Cronenberg,619
+La Haine,Mathieu Kassovitz,620
+Se7en,David Fincher,621
+The Age of Innocence,Martin Scorsese,622
+Titicut Follies,Frederick Wiseman,623
+Strike,Sergei Eisenstein,624
+The Marriage of Maria Braun,Rainer Werner Fassbinder,625
+Scarface,Howard Hawks,626
+Children of Men,Alfonso Cuarón,627
+Fat City,John Huston,628
+Zodiac,David Fincher,629
+The Party,Blake Edwards,630
+Breakfast at Tiffany's,Blake Edwards,631
+A Place in the Sun,George Stevens,632
+Before Sunset,Richard Linklater,633
+Lancelot du Lac,Robert Bresson,634
+Antonio das Mortes,Glauber Rocha,635
+Monty Python and the Holy Grail,Terry Gilliam,636
+Terminator 2: Judgment Day,James Cameron,637
+Nouvelle vague,Jean-Luc Godard,638
+Funny Games,Michael Haneke,639
+The Round-Up,Miklós Jancsó,640
+Mother and Son,Aleksandr Sokurov,641
+Young Mr. Lincoln,John Ford,642
+The Tiger of Eschnapur,Fritz Lang,643
+The Man Who Would Be King,John Huston,644
+Yeelen,Souleymane Cissé,645
+White Heat,Raoul Walsh,646
+Dazed and Confused,Richard Linklater,647
+Edward Scissorhands,Tim Burton,648
+Xala,Ousmane Sembene,649
+Orlando,Sally Potter,650
+A Short Film About Killing,Krzysztof Kieslowski,651
+After Life,Hirokazu Koreeda,652
+Mr. Smith Goes to Washington,Frank Capra,653
+JFK,Oliver Stone,654
+Nostalgia for the Light,Patricio Guzmán,655
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,656
+Un Chant d'amour,Jean Genet,657
+Zelig,Woody Allen,658
+Y tu mam_¡ tambi_©n,Alfonso Cuarón,659
+"Les Dames du Bois de Boulogne	",Robert Bresson,660
+Bambi,David Hand,661
+Gummo,Harmony Korine,662
+"Synecdoche, New York",Charlie Kaufman,663
+The Wild Child,François Truffaut,664
+Passion,Jean-Luc Godard,665
+The Great Escape,John Sturges,666
+The Dark Knight,Christopher Nolan,667
+My Life as a Dog,Lasse Hallström,668
+El Sur,Victor Erice,669
+The Son,Jean-Pierre Dardenne & Luc Dardenne,670
+Crash,David Cronenberg,671
+Edvard Munch,Peter Watkins,672
+Europa '51,Roberto Rossellini,673
+Distant,Nuri Bilge Ceylan,674
+Fellini's Roma,Federico Fellini,675
+The Wicker Man,Robin Hardy,676
+Possession,Andrzej Zulawski,677
+Claire's Knee,Eric Rohmer,678
+The Navigator,Buster Keaton & Donald Crisp,679
+Robocop,Paul Verhoeven,680
+Lolita,Stanley Kubrick,681
+Les Diaboliques,Henri-Georges Clouzot,682
+Spartacus,Stanley Kubrick,683
+W.R.: Mysteries of the Organism,Dusan Makavejev,684
+Superman,Richard Donner,685
+The Emperor's Naked Army Marches On,Kazuo Hara,686
+Miller's Crossing,Joel Coen & Ethan Coen,687
+The Woman Next Door,François Truffaut,688
+Vagabond,Agnès Varda,689
+Shock Corridor,Samuel Fuller,690
+Flaming Creatures,Jack Smith,691
+Harakiri,Masaki Kobayashi,692
+The Golden Coach,Jean Renoir,693
+"Harlan County, U.S.A.",Barbara Kopple,694
+Vive L'Amour,Tsai Ming-liang,695
+The Seasons,Artavazd Peleshian,696
+Dirty Harry,Don Siegel,697
+Still Life,Jia Zhangke,698
+The Bad and the Beautiful,Vincente Minnelli,699
+Thelma & Louise,Ridley Scott,700
+Gun Crazy,Joseph H. Lewis,701
+Invasion of the Body Snatchers,Don Siegel,702
+"4 Months, 3 Weeks and 2 Days",Cristian Mungiu,703
+Ferris Bueller's Day Off,John Hughes,704
+The Killer,John Woo,705
+"Faster, Pussycat! Kill! Kill!",Russ Meyer,706
+The Testament of Dr. Mabuse,Fritz Lang,707
+A Streetcar Named Desire,Elia Kazan,708
+Moulin Rouge!,Baz Luhrmann,709
+An Angel at My Table,Jane Campion,710
+Casque d'or,Jacques Becker,711
+The Tin Drum,Volker Schlöndorff,712
+The Chronicle of Anna Magdalena Bach,Jean-Marie Straub,713
+My Friend Ivan Lapshin,Aleksey German,714
+Titanic,James Cameron,715
+The Thief of Bagdad,"Michael Powell, Ludwig Berger & Tim Whelan",716
+Smiles of a Summer Night,Ingmar Bergman,717
+The Red Balloon,Albert Lamorisse,718
+L.A. Confidential,Curtis Hanson,719
+Airplane!,"Jim Abrahams, David Zucker & Jerry Zucker",720
+The Piano Teacher,Michael Haneke,721
+Saturday Night and Sunday Morning,Karel Reisz,722
+Saving Private Ryan,Steven Spielberg,723
+The Idiots,Lars von Trier,724
+Les Ma_®tres fous,Jean Rouch,725
+The Virgin Spring,Ingmar Bergman,726
+Kaagaz Ke Phool,Guru Dutt,727
+Syndromes and a Century,Apichatpong Weerasethakul,728
+The Trial,Orson Welles,729
+Ace in the Hole,Billy Wilder,730
+Dodes'ka-den,Akira Kurosawa,731
+Red Sorghum,Zhang Yimou,732
+The Ascent,Larisa Shepitko,733
+Ghostbusters,Ivan Reitman,734
+Who's Afraid of Virginia Woolf?,Mike Nichols,735
+The Age of the Earth,Glauber Rocha,736
+All Quiet on the Western Front,Lewis Milestone,737
+The Circus,Charles Chaplin,738
+Starship Troopers,Paul Verhoeven,739
+Blow Out,Brian De Palma,740
+Wild at Heart,David Lynch,741
+When Harry Met Sally...,Rob Reiner,742
+It's a Gift,Norman Z. McLeod,743
+The Holy Mountain,Alejandro Jodorowsky,744
+Rififi,Jules Dassin,745
+A Woman of Paris,Charles Chaplin,746
+The Last Emperor,Bernardo Bertolucci,747
+Abraham's Valley,Manoel de Oliveira,748
+Blood Simple,Joel Coen & Ethan Coen,749
+The Miracle of Morgan's Creek,Preston Sturges,750
+Olympia,Leni Riefenstahl,751
+Time of the Gypsies,Emir Kusturica,752
+Hitler: A Film from Germany,Hans-Jürgen Syberberg,753
+The Right Stuff,Philip Kaufman,754
+The Headless Woman,Lucrecia Martel,755
+Forbidden Games,René Clément,756
+Vengeance is Mine,Shohei Imamura,757
+Van Gogh,Maurice Pialat,758
+The Last Detail,Hal Ashby,759
+A History of Violence,David Cronenberg,760
+Ossessione,Luchino Visconti,761
+The Long Day Closes,Terence Davies,762
+Port of Shadows,Marcel Carné,763
+La Ci_©naga,Lucrecia Martel,764
+Moonfleet,Fritz Lang,765
+The Sweet Hereafter,Atom Egoyan,766
+Code Unknown,Michael Haneke,767
+Black Girl,Ousmane Sembene,768
+Avatar,James Cameron,769
+Hunger,Steve McQueen,770
+The Blues Brothers,John Landis,771
+Z,Constantin Costa-Gavras,772
+Le Sang des b_ªtes,Georges Franju,773
+Morocco,Josef von Sternberg,774
+Crumb,Terry Zwigoff,775
+The Princess Bride,Rob Reiner,776
+Il Grido,Michelangelo Antonioni,777
+Sauve qui peut (la vie),Jean-Luc Godard,778
+The Ladykillers,Alexander Mackendrick,779
+The Lusty Men,Nicholas Ray,780
+Memories of Murder,Bong Joon-ho,781
+Dog Star Man,Stan Brakhage,782
+The Producers,Mel Brooks,783
+Donnie Darko,Richard Kelly,784
+The Misfits,John Huston,785
+She Wore a Yellow Ribbon,John Ford,786
+Num_©ro deux,Jean-Luc Godard,787
+Seven Women,John Ford,788
+Le Million,René Clair,789
+Seventh Heaven,Frank Borzage,790
+Blue,Derek Jarman,791
+Big Deal on Madonna Street,Mario Monicelli,792
+The Breakfast Club,John Hughes,793
+American Beauty,Sam Mendes,794
+They Were Expendable,John Ford,795
+The New World,Terrence Malick,796
+"The Cook, The Thief, His Wife & Her Lover",Peter Greenaway,797
+The Last Temptation of Christ,Martin Scorsese,798
+Dumbo,Ben Sharpsteen,799
+An American in Paris,Vincente Minnelli,800
+We All Loved Each Other So Much,Ettore Scola,801
+Spione,Fritz Lang,802
+Ludwig,Luchino Visconti,803
+The Host,Bong Joon-ho,804
+Saturday Night Fever,John Badham,805
+Princess Mononoke,Hayao Miyazaki,806
+The River,Tsai Ming-liang,807
+The Ghost and Mrs. Muir,Joseph L. Mankiewicz,808
+Pickup on South Street,Samuel Fuller,809
+Anatomy of a Murder,Otto Preminger,810
+Deep End,Jerzy Skolimowski,811
+Au revoir les enfants,Louis Malle,812
+Cool Hand Luke,Stuart Rosenberg,813
+La Nuit du carrefour,Jean Renoir,814
+Million Dollar Baby,Clint Eastwood,815
+Pink Flamingos,John Waters,816
+American Graffiti,George Lucas,817
+Women on the Verge of a Nervous Breakdown,Pedro Almodóvar,818
+Rope,Alfred Hitchcock,819
+Le Jour se l_¨ve,Marcel Carné,820
+Branded to Kill,Seijun Suzuki,821
+Akira,Katsuhiro Otomo,822
+42nd Street,Lloyd Bacon,823
+Fires Were Started,Humphrey Jennings,824
+"New York, New York",Martin Scorsese,825
+Burnt by the Sun,Nikita Mikhalkov,826
+O Lucky Man!,Lindsay Anderson,827
+Street of Shame,Kenji Mizoguchi,828
+The End of Summer,Yasujiro Ozu,829
+The Return,Andrey Zvyagintsev,830
+Topsy-Turvy,Mike Leigh,831
+Night of the Demon,Jacques Tourneur,832
+L'Enfance nue,Maurice Pialat,833
+The Ladies Man,Jerry Lewis,834
+Sicilia!,Jean-Marie Straub & Danièle Huillet,835
+Fort Apache,John Ford,836
+Veronika Voss,Rainer Werner Fassbinder,837
+The Intruder,Claire Denis,838
+The Hart of London,Jack Chambers,839
+Jurassic Park,Steven Spielberg,840
+Central Station,Walter Salles,841
+Two English Girls,François Truffaut,842
+Forbidden Planet,Fred M. Wilcox,843
+The Sun Shines Bright,John Ford,844
+Arabian Nights,Pier Paolo Pasolini,845
+H_´tel Terminus,Marcel Ophüls,846
+Taipei Story,Edward Yang,847
+La Chienne,Jean Renoir,848
+Black Orpheus,Marcel Camus,849
+L_©on,Luc Besson,850
+The Ice Storm,Ang Lee,851
+3 Women,Robert Altman,852
+Cul-de-sac,Roman Polanski,853
+"Diaries, Notes and Sketches",Jonas Mekas,854
+The Bridges of Madison County,Clint Eastwood,855
+Assault on Precinct 13,John Carpenter,856
+The Naked Island,Kaneto Shindo,857
+Street Angel,Yuan Muzhi,858
+Excalibur,John Boorman,859
+Get Carter,Mike Hodges,860
+News from Home,Chantal Akerman,861
+The Usual Suspects,Bryan Singer,862
+To Live,Zhang Yimou,863
+The Day the Earth Stood Still,Robert Wise,864
+Othello,Orson Welles,865
+Juliet of the Spirits,Federico Fellini,866
+My Little Loves,Jean Eustache,867
+Gilda,Charles Vidor,868
+Mother India,Mehboob Khan,869
+Knife in the Water,Roman Polanski,870
+Le Trou,Jacques Becker,871
+The Outlaw Josey Wales,Clint Eastwood,872
+Henry V,Laurence Olivier,873
+The Incredible Shrinking Man,Jack Arnold,874
+2046,Wong Kar-wai,875
+Grave of the Fireflies,Isao Takahata,876
+Roman Holiday,William Wyler,877
+Odd Man Out,Carol Reed,878
+The 47 Ronin,Kenji Mizoguchi,879
+The Match Factory Girl,Aki Kaurismäki,880
+Love and Death,Woody Allen,881
+Not Reconciled,Jean-Marie Straub,882
+As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,Jonas Mekas,883
+La B_ªte humaine,Jean Renoir,884
+Ed Wood,Tim Burton,885
+Dust in the Wind,Hou Hsiao-hsien,886
+On the Town,Stanley Donen & Gene Kelly,887
+The Criminal Life of Archibaldo de la Cruz,Luis Buñuel,888
+The Lord of the Rings: The Return of the King,Peter Jackson,889
+Near Dark,Kathryn Bigelow,890
+Il Posto,Ermanno Olmi,891
+Simon of the Desert,Luis Buñuel,892
+Das Boot,Wolfgang Petersen,893
+M*A*S*H,Robert Altman,894
+Lâ__Enfant secret,Philippe Garrel,895
+Dracula,Terence Fisher,896
+"Spring, Summer, Autumn, Winter... and Spring",Kim Ki-duk,897
+The Adventures of Robin Hood,Michael Curtiz & William Keighley,898
+Mon oncle d'Am_©rique,Alain Resnais,899
+The Hawks and the Sparrows,Pier Paolo Pasolini,900
+Ride the High Country,Sam Peckinpah,901
+Reds,Warren Beatty,902
+Louisiana Story,Robert Flaherty,903
+Gregory's Girl,Bill Forsyth,904
+Angel,Ernst Lubitsch,905
+A Tale of the Wind,Joris Ivens,906
+National Lampoon's Animal House,John Landis,907
+Elephant,Alan Clarke,908
+The Godfather Part III,Francis Ford Coppola,909
+Berlin: Symphony of a Great City,Walter Ruttmann,910
+Ballad of Narayama,Shohei Imamura,911
+Gentlemen Prefer Blondes,Howard Hawks,912
+Anatahan,Josef von Sternberg,913
+Before Sunrise,Richard Linklater,914
+Holiday,George Cukor,915
+Akira Kurosawa's Dreams,Akira Kurosawa,916
+The Reckless Moment,Max Ophüls,917
+Fellini's Casanova,Federico Fellini,918
+Midnight Run,Martin Brest,919
+El Dorado,Howard Hawks,920
+El Topo,Alejandro Jodorowsky,921
+Exotica,Atom Egoyan,922
+The Firemen's Ball,Milos Forman,923
+Sholay,Ramesh Sippy,924
+Zabriskie Point,Michelangelo Antonioni,925
+Mildred Pierce,Michael Curtiz,926
+"Moi, un Noir",Jean Rouch,927
+"Too Early, Too Late",Jean-Marie Straub & Danièle Huillet,928
+The Verdict,Sidney Lumet,929
+Le Bonheur,Agnès Varda,930
+Yol,Serif Gören & Yilmaz Güney,931
+A Grin Without a Cat,Chris Marker,932
+Duel in the Sun,King Vidor,933
+P_©p_© le Moko,Julien Duvivier,934
+The Ten Commandments,Cecil B. DeMille,935
+A Diary for Timothy,Humphrey Jennings,936
+Outer Space,Peter Tscherkassky,937
+Finding Nemo,Andrew Stanton,938
+Bob le flambeur,Jean-Pierre Melville,939
+The Man Who Fell to Earth,Nicolas Roeg,940
+India: Matri Bhumi,Roberto Rossellini,941
+The Tarnished Angels,Douglas Sirk,942
+Mamma Roma,Pier Paolo Pasolini,943
+Floating Weeds,Yasujiro Ozu,944
+Une Femme est une femme,Jean-Luc Godard,945
+Chikamatsu monogatari,Kenji Mizoguchi,946
+Subarnarekha,Ritwik Ghatak,947
+A Man for All Seasons,Fred Zinnemann,948
+H_¤xan,Benjamin Christensen,949
+Ten,Abbas Kiarostami,950
+Ceddo,Ousmane Sembene,951
+Twin Peaks: Fire Walk with Me,David Lynch,952
+La Collectionneuse,Eric Rohmer,953
+The Loneliness of the Long Distance Runner,Tony Richardson,954
+Shanghai Express,Josef von Sternberg,955
+L'Arriv_©e d'un train __ la Ciotat,August Lumière & Louis Lumière,956
+Beyond the Valley of the Dolls,Russ Meyer,957
+Cairo Station,Youssef Chahine,958
+Kwaidan,Masaki Kobayashi,959
+Phantom of the Paradise,Brian De Palma,960
+Princess Yang Kwei Fei,Kenji Mizoguchi,961
+Sawdust and Tinsel,Ingmar Bergman,962
+True Heart Susie,D.W. Griffith,963
+The Saragossa Manuscript,Wojciech Has,964
+Pickpocket,Jia Zhangke,965
+Witness,Peter Weir,966
+War and Peace,Sergei Bondarchuk,967
+Being John Malkovich,Spike Jonze,968
+__ nous la libert_©,René Clair,969
+The Story of Qiu Ju,Zhang Yimou,970
+From the Clouds to the Resistance,Jean-Marie Straub & Danièle Huillet,971
+Kill Bill Vol. 1,Quentin Tarantino,972
+Lone Star,John Sayles,973
+Outskirts,Boris Barnet,974
+Touchez pas au Grisbi,Jacques Becker,975
+The Rocky Horror Picture Show,Jim Sharman,976
+Design for Living,Ernst Lubitsch,977
+The Sting,George Roy Hill,978
+O Bandido da Luz Vermelha,Rogério Sganzerla,979
+Scarecrow,Jerry Schatzberg,980
+Ruggles of Red Gap,Leo McCarey,981
+Hellzapoppin',H.C. Potter,982
+Mothlight,Stan Brakhage,983
+The Indian Tomb,Fritz Lang,984
+Red Beard,Akira Kurosawa,985
+The Fountainhead,King Vidor,986
+Bad Timing,Nicolas Roeg,987
+The Big Red One,"Fuller, Samuel",988
+Johnny Got His Gun,Dalton Trumbo,989
+L'Amour fou,Jacques Rivette,990
+Unsere Afrikareise,Peter Kubelka,991
+The Nightmare Before Christmas,Henry Selick,992
+They Live,John Carpenter,993
+Heimat,Edgar Reitz,994
+In Praise of Love,Jean-Luc Godard,995
+Dead Poets Society,Peter Weir,996
+Husbands and Wives,Woody Allen,997
+L'Humanit_©,Bruno Dumont,998
+Oasis,Lee Chang-dong,999
+Sorcerer,William Friedkin,1000
