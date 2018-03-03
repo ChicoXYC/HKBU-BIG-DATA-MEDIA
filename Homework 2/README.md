@@ -22,6 +22,6 @@ CC 4.0
 
 Notes<br>
 -------
-* Use if to remove the Nonetype data so that you can use the text function
+* Use if to remove the Nonetype data so that you can use the text function.
 * Use if to find the data when there is some error in the webpage.<br>
 like in my case, all directors should be in 'span',attrs={'style':'font-size:24px; '}), but there are two from attrs={'style':'font-size:22px; '})
