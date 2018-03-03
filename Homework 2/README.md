@@ -5,7 +5,6 @@ Data source<br>
 This dataset contains TSPDT's LIST OF THE 1,000 GREATEST FILMS OF ALL TIME 2018 VERSION.<br>
 
 Starting page:http://www.theyshootpictures.com/gf1000.htm <br>
-<br>
 
 Data fields <br>
 -------
@@ -13,9 +12,9 @@ Data fields <br>
 * Directors - String. e.g. Alfred Hitchcock
 * ranking - Int. e.g. 1000
 
-Data Volume
+Data Volume<br>
 -------
 1000 rows (movies) <br>
-<br>License
+License<br>
 -------
 CC 4.0
