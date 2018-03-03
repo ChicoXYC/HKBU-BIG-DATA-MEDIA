@@ -15,7 +15,6 @@ Data fields <br>
 Data Volume<br>
 -------
 1000 rows (movies)<br>
-
 License<br>
 -------
 CC 4.0
