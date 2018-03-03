@@ -11,7 +11,7 @@ Data fields\<br>
 * ranking - Int. e.g. 1000
 Data volume
 ------
-1000 rows (movies)<br>
+1000 rows (movies)\<br>
 License
 -------
 CC 4.0
