@@ -1,0 +1,1001 @@
+Movie,Directors,Ranking,year,region,length,genre
+Citizen Kane,Orson Welles,1,1941, USA ,119m, Drama
+Vertigo,Alfred Hitchcock,2,1958, USA ,128m, Romantic Mystery
+2001: A Space Odyssey,Stanley Kubrick,3,1968, UK-USA ,139m, Psychological Sci-Fi
+The Rules of the Game,Jean Renoir,4,1939, France ,113m, Comedy Drama
+Tokyo Story,Yasujiro Ozu,5,1953, Japan ,134m, Drama
+The Godfather,Francis Ford Coppola,6,1972, USA ,175m, Gangster Film
+8Â½,Federico Fellini,7,1963, Italy ,135m, Satire
+Sunrise,F.W. Murnau,8,1927, USA ,110m, Melodrama
+The Searchers,John Ford,9,1956, USA ,119m, Western
+Seven Samurai,Akira Kurosawa,10,1954, Japan ,200m, Drama
+Apocalypse Now,Francis Ford Coppola,11,1979, USA ,150m, Anti-War Film
+Singin' in the Rain,Stanley Donen & Gene Kelly,12,1952, USA ,102m, Musical
+Bicycle Thieves,Vittorio De Sica,13,1948, Italy ,90m, Family Drama
+Battleship Potemkin,Sergei Eisenstein,14,1925, USSR ,71m, Political Drama
+Taxi Driver,Martin Scorsese,15,1976, USA ,113m, Psychological Drama
+The Passion of Joan of Arc,Carl Theodor Dreyer,16,1928, France ,110m, Historical Film
+Breathless,Jean-Luc Godard,17,1960, France ,89m, Crime Drama
+L'Atalante,Jean Vigo,18,1934, France ,89m, Romantic Drama
+Persona,Ingmar Bergman,19,1966, Sweden ,81m, Drama
+Rashomon,Akira Kurosawa,20,1950, Japan ,88m, Period Film
+The Godfather Part II,Francis Ford Coppola,21,1974, USA ,200m, Gangster Film
+Man with a Movie Camera,Dziga Vertov,22,1929, USSR ,80m, Avant-garde-Experimental
+Raging Bull,Martin Scorsese,23,1980, USA ,128m, Biography
+City Lights,Charles Chaplin,24,1931, USA ,86m, Comedy Drama
+The 400 Blows,François Truffaut,25,1959, France ,99m, Childhood Drama
+Psycho,Alfred Hitchcock,26,1960, USA ,109m, Thriller
+Andrei Rublev,Andrei Tarkovsky,27,1966, USSR ,185m, Historical Film
+Some Like it Hot,Billy Wilder,28,1959, USA ,119m, Comedy
+The Mirror,Andrei Tarkovsky,29,1975, USSR ,108m, Avant-garde-Experimental
+Touch of Evil,Orson Welles,30,1958, USA ,108m, Crime
+La Dolce vita,Federico Fellini,31,1960, Italy ,175m, Comedy Drama
+Casablanca,Michael Curtiz,32,1942, USA ,102m, Drama
+Lawrence of Arabia,David Lean,33,1962, UK ,216m, Epic
+Ordet,Carl Theodor Dreyer,34,1955, Denmark ,125m, Drama
+Au hasard Balthazar,Robert Bresson,35,1966, France ,95m, Rural Drama
+Sunset Blvd.,Billy Wilder,36,1950, USA ,110m, Showbiz Drama
+L'Avventura,Michelangelo Antonioni,37,1960, Italy-France ,145m, Drama
+The General,Buster Keaton & Clyde Bruckman,38,1926, USA ,74m, Adventure Comedy
+Blade Runner,Ridley Scott,39,1982, USA ,118m, Science Fiction
+Contempt,Jean-Luc Godard,40,1963, France-Italy ,103m, Showbiz Drama
+Rear Window,Alfred Hitchcock,41,1954, USA ,112m, Thriller
+La Grande illusion,Jean Renoir,42,1937, France ,117m, Anti-War Film
+The Night of the Hunter,Charles Laughton,43,1955, USA ,93m, Crime Thriller
+Modern Times,Charles Chaplin,44,1936, USA ,89m, Comedy
+In the Mood for Love,Wong Kar-wai,45,2000, Hong Kong-France ,97m, Melodrama
+The Third Man,Carol Reed,46,1949, UK ,104m, Mystery
+Playtime,Jacques Tati,47,1967, France ,108m, Satire
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,48,1964, UK-USA ,93m, Black Comedy
+Chinatown,Roman Polanski,49,1974, USA ,131m, Mystery
+Ugetsu monogatari,Kenji Mizoguchi,50,1953, Japan ,96m, Romantic Fantasy
+Barry Lyndon,Stanley Kubrick,51,1975, UK ,183m, Drama
+The Apartment,Billy Wilder,52,1960, USA ,125m, Comedy Drama
+M,Fritz Lang,53,1931, Germany ,99m, Psychological Thriller
+Rio Bravo,Howard Hawks,54,1959, USA ,141m, Western
+Fanny and Alexander,Ingmar Bergman,55,1982, Sweden ,189m, Family Drama
+Wild Strawberries,Ingmar Bergman,56,1957, Sweden ,90m, Drama
+Metropolis,Fritz Lang,57,1927, Germany ,153m, Science Fiction
+Stalker,Andrei Tarkovsky,58,1979, USSR ,160m, Science Fiction
+Pather Panchali,Satyajit Ray,59,1955, India ,112m, Rural Drama
+North by Northwest,Alfred Hitchcock,60,1959, USA ,136m, Thriller
+Mulholland Dr.,David Lynch,61,2001, France-US ,147m, Mystery
+The Wild Bunch,Sam Peckinpah,62,1969, USA ,144m, Revisionist Western
+Les Enfants du paradis,Marcel Carné,63,1945, France ,195m, Period Film
+Once Upon a Time in the West,Sergio Leone,64,1968, Italy-USA ,165m, Epic Western
+Pierrot le fou,Jean-Luc Godard,65,1965, France-Italy ,110m, Road Movie
+The Battle of Algiers,Gillo Pontecorvo,66,1966, Italy-Algeria ,123m, Docudrama
+The Gold Rush,Charles Chaplin,67,1925, USA ,82m, Slapstick
+Shoah,Claude Lanzmann,68,1985, France ,566m, Military & War
+La Strada,Federico Fellini,69,1954, Italy ,115m, Melodrama
+The Magnificent Ambersons,Orson Welles,70,1942, USA ,88m, Family Drama
+The Seventh Seal,Ingmar Bergman,71,1957, Sweden ,96m, Fantasy
+Amarcord,Federico Fellini,72,1973, Italy ,127m, Comedy Drama
+Late Spring,Yasujiro Ozu,73,1949, Japan ,108m, Drama
+Voyage in Italy,Roberto Rossellini,74,1953, Italy ,97m, Marriage Drama
+Pulp Fiction,Quentin Tarantino,75,1994, USA ,154m, Crime Comedy
+Viridiana,Luis Buñuel,76,1961, Spain ,90m, Comedy Drama
+GoodFellas,Martin Scorsese,77,1990, USA ,146m, Gangster Film
+The Leopard,Luchino Visconti,78,1963, Italy ,205m, Epic
+It's a Wonderful Life,Frank Capra,79,1946, USA ,129m, Comedy Drama
+Blue Velvet,David Lynch,80,1986, USA ,120m, Mystery
+Pickpocket,Robert Bresson,81,1959, France ,75m, Crime Drama
+A Clockwork Orange,Stanley Kubrick,82,1971, UK ,137m, Satire
+Gertrud,Carl Theodor Dreyer,83,1964, Denmark ,116m, Psychological Drama
+The Conformist,Bernardo Bertolucci,84,1970, Italy-France-West Germany ,107m, Psychological Drama
+Jules et Jim,François Truffaut,85,1962, France ,104m, Drama
+Annie Hall,Woody Allen,86,1977, USA ,94m, Romantic Comedy
+Nashville,Robert Altman,87,1975, USA,159m, Ensemble Film
+Close-Up,Abbas Kiarostami,88,1990, Iran ,98m, Docudrama
+A Man Escaped,Robert Bresson,89,1956, France ,102m, Drama
+The Man Who Shot Liberty Valance,John Ford,90,1962, USA ,119m, Western
+Last Year at Marienbad,Alain Resnais,91,1961, France-Italy ,94m, Avant-garde-Experimental
+Greed,Erich von Stroheim,92,1924, USA ,140m, Melodrama
+Sansho the Bailiff,Kenji Mizoguchi,93,1954, Japan ,125m, Drama
+The Shining,Stanley Kubrick,94,1980, USA ,142m, Horror
+Jaws,Steven Spielberg,95,1975, USA ,124m, Thriller
+"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",Chantal Akerman,96,1975, Belgium-France ,201m, Avant-garde-Experimental
+Aguirre: The Wrath of God,Werner Herzog,97,1972, West Germany ,94m, Adventure Drama
+Blowup,Michelangelo Antonioni,98,1966, Italy-UK ,111m, Mystery
+Sans soleil,Chris Marker,99,1983, France ,100m, Avant-garde-Experimental
+SÃ¡tÃ¡ntangÃ³,Béla Tarr,100,1994, Hungary-Germany-Switzerland ,450m, Drama
+To Be or Not to Be,Ernst Lubitsch,101,1942, USA ,99m, Comedy
+Once Upon a Time in America,Sergio Leone,102,1984, Italy-USA ,229m, Crime
+The Wizard of Oz,Victor Fleming,103,1939, USA ,101m, Children's
+A Woman Under the Influence,John Cassavetes,104,1974, USA ,155m, Marriage Drama
+Intolerance,D.W. Griffith,105,1916, USA ,178m, Historical Epic
+Manhattan,Woody Allen,106,1979, USA ,96m, Urban Comedy
+The Mother and the Whore,Jean Eustache,107,1973, France ,210m, Psychological Drama
+L'Eclisse,Michelangelo Antonioni,108,1962, Italy-France ,126m, Psychological Drama
+La JetÃ©e,Chris Marker,109,1962, France ,27m, Science Fiction
+Gone with the Wind,Victor Fleming,110,1939, USA ,222m, Romantic Epic
+The Spirit of the Beehive,Victor Erice,111,1973, Spain ,95m, Drama
+Hiroshima mon amour,Alain Resnais,112,1959, France-Japan ,91m, Psychological Drama
+Ikiru,Akira Kurosawa,113,1952, Japan ,143m, Drama
+Bringing Up Baby,Howard Hawks,114,1938, USA ,102m, Screwball Comedy
+Sherlock Jr.,Buster Keaton,115,1924, USA ,44m, Comedy
+Star Wars,George Lucas,116,1977, USA ,121m, Science Fiction
+All About Eve,Joseph L. Mankiewicz,117,1950, USA ,138m, Satire
+E.T. The Extra-Terrestrial,Steven Spielberg,118,1982, USA ,115m, Science Fiction
+One Flew Over the Cuckoo's Nest,Milos Forman,119,1975, USA ,133m, Comedy Drama
+Madame de...,Max Ophüls,120,1953, France-Italy ,105m, Period Film
+My Darling Clementine,John Ford,121,1946, USA ,97m, Western
+Letter from an Unknown Woman,Max Ophüls,122,1948, USA ,90m, Melodrama
+L'Ãge d'or,Luis Buñuel,123,1930, France ,63m, Avant-garde
+Don't Look Now,Nicolas Roeg,124,1973, UK ,110m, Psychological Thriller
+Badlands,Terrence Malick,125,1973, USA ,95m, Crime Drama
+Vivre sa vie,Jean-Luc Godard,126,1962, France ,85m, Psychological Drama
+A Brighter Summer Day,Edward Yang,127,1991, Taiwan ,237m, Drama
+Alien,Ridley Scott,128,1979, USA ,117m, Horror
+Notorious,Alfred Hitchcock,129,1946, USA ,101m, Thriller
+Partie de campagne,Jean Renoir,130,1936, France ,40m, Comedy Drama
+Yi yi,Edward Yang,131,2000, Taiwan-Japan ,173m, Ensemble Film
+Los Olvidados,Luis Buñuel,132,1950, Mexico ,88m, Juvenile Delinquency Film
+"Rome, Open City",Roberto Rossellini,133,1945, Italy ,105m, War Drama
+Nosferatu,F.W. Murnau,134,1922, Germany ,84m, Horror
+The Lady Eve,Preston Sturges,135,1941, USA ,94m, Romantic Comedy
+Un Chien andalou,Luis Buñuel,136,1928, France ,16m, Avant-garde-Experimental
+Double Indemnity,Billy Wilder,137,1944, USA ,106m, Film Noir
+Ali: Fear Eats the Soul,Rainer Werner Fassbinder,138,1974, West Germany ,94m, Melodrama
+The Exterminating Angel,Luis Buñuel,139,1962, Mexico ,95m, Comedy Drama
+Days of Heaven,Terrence Malick,140,1978, USA ,95m, Rural Drama
+His Girl Friday,Howard Hawks,141,1940, USA ,92m, Screwball Comedy
+The Conversation,Francis Ford Coppola,142,1974, USA ,113m, Thriller
+Stagecoach,John Ford,143,1939, USA ,96m, Western
+A Matter of Life and Death,Michael Powell & Emeric Pressburger,144,1946, UK ,104m, Romantic Fantasy
+Do the Right Thing,Spike Lee,145,1989, USA ,120m, Urban Drama
+Trouble in Paradise,Ernst Lubitsch,146,1932, USA ,83m, Sophisticated Comedy
+Rosemary's Baby,Roman Polanski,147,1968, USA ,136m, Occult Horror
+Brief Encounter,David Lean,148,1945, UK ,85m, Drama
+Histoire(s) du  cinÃ©ma,Jean-Luc Godard,149,1998, France ,265m, Essay Film
+On the Waterfront,Elia Kazan,150,1954, USA ,108m, Message Movie
+The Gospel According to St. Matthew,Pier Paolo Pasolini,151,1964, Italy-France ,135m, Hagiography
+Beau travail,Claire Denis,152,1999, France ,92m, Drama
+"The Good, the Bad and the Ugly",Sergio Leone,153,1966, Italy-Spain ,161m, Spaghetti Western
+Duck Soup,Leo McCarey,154,1933, USA ,70m, Anarchic Comedy
+Cries and Whispers,Ingmar Bergman,155,1972, Sweden ,106m, Drama
+Come and See,Elem Klimov,156,1985, USSR ,136m, War Drama
+Chimes at Midnight,Orson Welles,157,1965, France-Spain-Switzerland ,115m, Drama
+The Discreet Charm of the Bourgeoisie,Luis Buñuel,158,1972, France ,100m, Satire
+L'Argent,Robert Bresson,159,1983, France-Switzerland ,90m, Drama
+The Deer Hunter,Michael Cimino,160,1978, USA ,183m, Ensemble Film
+The Passenger,Michelangelo Antonioni,161,1975, Italy ,119m, Road Movie
+King Kong,Merian C. Cooper & Ernest B. Schoedsack,162,1933, USA ,103m, Adventure
+The River,Jean Renoir,163,1951, France-India-USA ,99m, Drama
+The Red Shoes,Michael Powell & Emeric Pressburger,164,1948, UK ,133m, Romantic Drama
+Black Narcissus,Michael Powell & Emeric Pressburger,165,1947, UK ,99m, Melodrama
+The Grapes of Wrath,John Ford,166,1940, USA ,129m, Rural Drama
+NapolÃ©on,Abel Gance,167,1927, France ,235m, Historical Epic
+Mouchette,Robert Bresson,168,1967, France ,80m, Drama
+Dekalog,Krzysztof Kieslowski,169,1988, Poland ,550m, Drama
+Imitation of Life,Douglas Sirk,170,1959, USA ,124m, Melodrama
+Earth,Alexander Dovzhenko,171,1930, USSR ,75m, Drama
+The Umbrellas of Cherbourg,Jacques Demy,172,1964, France-Germany ,91m, Musical
+The Life and Death of Colonel Blimp,Michael Powell & Emeric Pressburger,173,1943, UK ,163m, Drama
+There Will Be Blood,Paul Thomas Anderson,174,2007, USA ,158m, Family Drama
+The Great Dictator,Charles Chaplin,175,1940, USA ,128m, Comedy
+Rocco and His Brothers,Luchino Visconti,176,1960, Italy-France ,180m, Family Drama
+Brazil,Terry Gilliam,177,1985, UK ,131m, Science Fiction
+Celine and Julie Go Boating,Jacques Rivette,178,1974, France ,192m, Avant-garde-Experimental
+The Travelling Players,Theo Angelopoulos,179,1975, Greece ,230m, Drama
+Out of the Past,Jacques Tourneur,180,1947, USA ,97m, Crime
+The Last Laugh,F.W. Murnau,181,1924, Germany ,77m, Drama
+Spring in a Small Town,Fei Mu,182,1948, China ,85m, Drama
+Sweet Smell of Success,Alexander Mackendrick,183,1957, USA ,96m, Drama
+Belle de jour,Luis Buñuel,184,1967, France-Italy ,100m, Satire
+The Birds,Alfred Hitchcock,185,1963, USA ,120m, Horror
+Performance,Nicolas Roeg & Donald Cammell,186,1970, UK ,105m, Psychological Drama
+The Best Years of Our Lives,William Wyler,187,1946, US ,172m, Family Drama
+Kes,Ken Loach,188,1969, UK ,113m, Coming-of-Age
+Umberto D.,Vittorio De Sica,189,1952, Italy ,89m, Urban Drama
+Ran,Akira Kurosawa,190,1985, France-Japan ,161m, Historical Epic
+Night and Fog,Alain Resnais,191,1955, France ,32m, Military & War
+The Texas Chainsaw Massacre,Tobe Hooper,192,1974, USA ,83m, Horror
+Red River,Howard Hawks,193,1948, USA ,133m, Western
+Fargo,Joel Coen & Ethan Coen,194,1996, USA ,98m, Crime
+Close Encounters of the Third Kind,Steven Spielberg,195,1977, USA ,135m, Science Fiction
+The Thin Red Line,Terrence Malick,196,1998, USA ,170m, War Drama
+The Quiet Man,John Ford,197,1952, USA ,129m, Comedy Drama
+Death in Venice,Luchino Visconti,198,1971, Italy ,130m, Drama
+The Piano,Jane Campion,199,1993, New Zealand-Australia-France ,121m, Romantic Drama
+Nights of Cabiria,Federico Fellini,200,1957, Italy-France ,110m, Melodrama
+CachÃ©,Michael Haneke,201,2005, France-Austria-Germany-Italy ,117m, Drama
+"SalÃ², or the 120 Days of Sodom",Pier Paolo Pasolini,202,1975, Italy ,117m, Drama
+Spirited Away,Hayao Miyazaki,203,2001, Japan ,124m, Fantasy Adventure
+Le SamouraÃ¯,Jean-Pierre Melville,204,1967, France ,95m, Crime Thriller
+Nanook of the North,Robert Flaherty,205,1922, USA ,79m, Anthropology
+Chungking Express,Wong Kar-wai,206,1994, Hong Kong ,104m, Urban Drama
+McCabe & Mrs. Miller,Robert Altman,207,1971, USA ,121m, Drama
+A City of Sadness,Hou Hsiao-hsien,208,1989, Taiwan-Hong Kong ,157m, Family Drama
+Schindler's List,Steven Spielberg,209,1993, USA ,195m, War Drama
+"Ivan the Terrible, Part 2",Sergei Eisenstein,210,1946, USSR ,88m, Historical Film
+Breaking the Waves,Lars von Trier,211,1996, Denmark-Sweden-France-Netherlands-Norway-Iceland-Spain ,156m, Psychological Drama
+Paisan,Roberto Rossellini,212,1946, Italy ,120m, Drama
+Wings of Desire,Wim Wenders,213,1987, West Germany-France ,130m, Fantasy
+The Exorcist ,William Friedkin,214,1973, USA ,122m, Horror
+The Graduate,Mike Nichols,215,1967, USA ,105m, Comedy
+Sullivan's Travels,Preston Sturges,216,1941, USA ,91m, Comedy
+Raiders of the Lost Ark,Steven Spielberg,217,1981, USA ,115m, Adventure
+Two or Three Things I Know About Her,Jean-Luc Godard,218,1966, France ,87m, Essay Film
+The Cabinet of Dr. Caligari,Robert Wiene,219,1920, Germany ,69m, Horror
+Wavelength,Michael Snow,220,1967, Canada-USA ,45m, Abstract FilmHollis Frampton
+Ashes and Diamonds,Andrzej Wajda,221,1958, Poland ,96m, Political Drama
+Vampyr,Carl Theodor Dreyer,222,1932, Germany-France ,73m, Horror
+The Big Lebowski,Joel Coen & Ethan Coen,223,1998, USA-UK ,113m, Crime Comedy
+Kind Hearts and Coronets,Robert Hamer,224,1949, UK ,104m, Black Comedy
+Meet Me in St. Louis,Vincente Minnelli,225,1944, USA ,113m, Musical
+The Treasure of the Sierra Madre,John Huston,226,1948, USA ,124m, Adventure
+The Crowd,King Vidor,227,1928, USA ,104m, Drama
+Solaris,Andrei Tarkovsky,228,1972, USSR ,165m, Science Fiction
+Diary of a Country Priest,Robert Bresson,229,1951, France ,120m, Psychological Drama
+Groundhog Day,Harold Ramis,230,1993, USA ,103m, Fantasy Comedy
+The Colour of Pomegranate,Sergei Parajanov,231,1969, USSR ,73m, Avant-garde-Experimental
+"Black God, White Devil",Glauber Rocha,232,1964, Brazil ,110m, Road Movie
+Unforgiven,Clint Eastwood,233,1992, USA ,127m, Western
+Only Angels Have Wings,Howard Hawks,234,1939, USA ,121m, Adventure
+Bonnie and Clyde,Arthur Penn,235,1967, USA ,111m, Gangster Film
+El Verdugo,Luis García Berlanga,236,1963, Spain-Italy ,90m, Comedy Drama
+"Germany, Year Zero",Roberto Rossellini,237,1947, Italy-West Germany ,74m, War Drama
+Eternal Sunshine of the Spotless Mind,Michel Gondry,238,2004, USA ,108m, Comedy Drama
+Mean Streets,Martin Scorsese,239,1973, USA ,110m, Crime
+The Tree of Life,Terrence Malick,240,2011, USA ,139m, Drama
+The Life of Oharu,Kenji Mizoguchi,241,1952, Japan ,146m, Drama
+Johnny Guitar,Nicholas Ray,242,1954, USA ,110m, Western
+Tabu,F.W. Murnau,243,1931, USA ,82m, Romance
+Meshes of the Afternoon,Maya Deren & Alexander Hammid,244,1943, USA ,15m, Avant-garde-Experimental
+The Band Wagon,Vincente Minnelli,245,1953, USA ,112m, Musical
+Magnolia,Paul Thomas Anderson,246,1999, USA ,188m, Drama
+The Thin Blue Line,Errol Morris,247,1988, USA ,96m, Law & Crime
+Zero for Conduct,Jean Vigo,248,1933, France ,41m, Coming-of-Age
+"Paris, Texas",Wim Wenders,249,1984, USA ,150m, Drama
+The Shop Around the Corner,Ernst Lubitsch,250,1940, USA ,97m, Comedy
+Tropical Malady,Apichatpong Weerasethakul,251,2004, France-Thailand-Germany-Italy-Switzerland ,118m, Avant-garde-Experimental
+Three Colours: Red,Krzysztof Kieslowski,252,1994, France-Switzerland-Poland ,99m, Psychological Drama
+Floating Clouds,Mikio Naruse,253,1955, Japan ,123m, Drama
+"Ivan the Terrible, Part 1",Sergei Eisenstein,254,1944, USSR ,96m, Historical Film
+La Notte,Michelangelo Antonioni,255,1961, Italy-France ,120m, Psychological Drama
+Night of the Living Dead,George A. Romero,256,1968, USA ,96m, Horror
+Crimes and Misdemeanors,Woody Allen,257,1989, USA ,104m, Comedy Drama
+Three Colours: Blue,Krzysztof Kieslowski,258,1993, France-Poland-Switzerland ,100m, Psychological Drama
+"Distant Voices, Still Lives",Terence Davies,259,1988, UK ,85m, Family Drama
+Faces,John Cassavetes,260,1968, USA ,130m, Marriage Drama
+The Story of the Last Chrysanthemums,Kenji Mizoguchi,261,1939, Japan ,143m, Period Film
+My Neighbour Totoro,Hayao Miyazaki,262,1988, Japan ,86m, Children's Fantasy
+Broken Blossoms,D.W. Griffith,263,1919, USA ,90m, Melodrama
+My Night at Maud's,Eric Rohmer,264,1969, France ,105m, Comedy of Manners
+Paths of Glory,Stanley Kubrick,265,1957, USA ,86m, Anti-War Film
+The Wages of Fear,Henri-Georges Clouzot,266,1953, France-Italy ,105m, Thriller
+F for Fake,Orson Welles,267,1973, France-Iran-West Germany ,85m, Avant-garde-Experimental
+Throne of Blood,Akira Kurosawa,268,1957, Japan ,108m, Drama
+In a Lonely Place,Nicholas Ray,269,1950, USA ,91m, Psychological Drama
+Freaks,Tod Browning,270,1932, USA ,64m, Melodrama
+Week-End,Jean-Luc Godard,271,1967, France-Italy ,103m, Avant-garde-Experimental
+Pandora's Box,G.W. Pabst,272,1929, Germany ,133m, Drama
+Love Streams,John Cassavetes,273,1984, USA ,141m, Drama
+Memories of Underdevelopment,Tomás Gutiérrez Alea,274,1968, Cuba ,97m, Psychological Drama
+Cinema Paradiso,Giuseppe Tornatore,275,1988, Italy-France ,123m, Drama
+Monsieur Verdoux,Charles Chaplin,276,1947, USA ,123m, Black Comedy
+La Belle et la bÃªte,Jean Cocteau,277,1946, France ,95m, Fairy Tale
+Eraserhead,David Lynch,278,1977, USA ,85m, Avant-garde-Experimental
+The Maltese Falcon,John Huston,279,1941, USA ,100m, Mystery
+The Birth of a Nation,D.W. Griffith,280,1915, USA ,187m, Epic
+The Big Sleep,Howard Hawks,281,1946, USA ,114m, Mystery
+The Empire Strikes Back,Irvin Kershner,282,1980, USA ,124m, Science Fiction
+An Autumn Afternoon,Yasujiro Ozu,283,1962, Japan ,115m, Family Drama
+Kings of the Road,Wim Wenders,284,1976, West Germany ,175m, Drama
+The Music Room,Satyajit Ray,285,1958, India ,95m, Drama
+The Matrix,Lana Wachowski & Lilly Wachowski,286,1999, USA-Australia ,136m, Science Fiction
+Underground,Emir Kusturica,287,1995, France-Germany-Hungary ,192m, Comedy Drama
+The World of Apu,Satyajit Ray,288,1959, India ,103m, Drama
+Husbands,John Cassavetes,289,1970, USA ,138m, Drama
+The Sacrifice,Andrei Tarkovsky,290,1986, France-Sweden ,145m, Psychological Drama
+Touki Bouki,Djibril Diop Mambéty,291,1973, Senegal ,85m, Drama
+All About My Mother,Pedro Almodóvar,292,1999, Spain-France ,101m, Comedy Drama
+The Philadelphia Story,George Cukor,293,1940, USA ,112m, Screwball Comedy
+Day of Wrath,Carl Theodor Dreyer,294,1943, Denmark ,110m, Period Film
+Berlin Alexanderplatz,Rainer Werner Fassbinder,295,1980, West Germany-Italy ,894m, Epic
+The Thing,John Carpenter,296,1982, USA ,108m, Science Fiction
+Peeping Tom,Michael Powell,297,1960, UK ,109m, Thriller
+Mr. Hulot's Holiday,Jacques Tati,298,1953, France ,86m, Comedy
+Harold and Maude,Hal Ashby,299,1971, USA ,90m, Black Comedy
+The Kid,Charles Chaplin,300,1921, USA ,60m, Comedy Drama
+A Canterbury Tale,Michael Powell & Emeric Pressburger,301,1944, UK ,124m, Comedy Drama
+Videodrome,David Cronenberg,302,1983, Canada ,90m, Media Satire
+Red Desert,Michelangelo Antonioni,303,1964, Italy-France ,118m, Drama
+Cabaret,Bob Fosse,304,1972, USA ,128m, Musical
+This is Spinal Tap,Rob Reiner,305,1984, USA ,82m, Mockumentary
+The Last Picture Show,Peter Bogdanovich,306,1971, USA ,118m, Drama
+Killer of Sheep,Charles Burnett,307,1977, USA ,83m, Drama
+Orpheus,Jean Cocteau,308,1950, France ,95m, Fantasy
+Snow White and the Seven Dwarfs,David Hand,309,1937, USA ,83m, Children's Fantasy
+Terra em Transe,Glauber Rocha,310,1967, Brazil ,106m, Drama
+Back to the Future,Robert Zemeckis,311,1985, USA ,116m, Teen Movie
+Reservoir Dogs,Quentin Tarantino,312,1992, USA ,99m, Crime Thriller
+Dawn of the Dead,George A. Romero,313,1978, USA ,126m, Horror
+To Kill a Mockingbird,Robert Mulligan,314,1962, USA ,129m, Courtroom Drama
+The Time to Live and the Time to Die,Hou Hsiao-hsien,315,1985, Taiwan ,137m, Coming-of-Age
+The Puppetmaster,Hou Hsiao-hsien,316,1993, Taiwan ,141m, Biography
+Where is the Friend's Home?,Abbas Kiarostami,317,1987, Iran ,85m, Drama
+West Side Story,Robert Wise & Jerome Robbins,318,1961, USA ,151m, Musical Romance
+Amadeus,Milos Forman,319,1984, USA ,158m, Musical Drama
+Bride of Frankenstein,James Whale,320,1935, USA ,75m, Monster Film
+Listen to Britain,Humphrey Jennings,321,1942, UK ,20m, Culture & Society
+Dog Day Afternoon,Sidney Lumet,322,1975, USA ,125m, Crime
+Lola MontÃ¨s,Max Ophüls,323,1955, France-West Germany ,116m, Drama
+How Green Was My Valley,John Ford,324,1941, USA ,118m, Family Drama
+Eyes Wide Shut,Stanley Kubrick,325,1999, USA-UK ,159m, Marriage Drama
+Midnight Cowboy,John Schlesinger,326,1969, USA ,113m, Urban Drama
+Make Way for Tomorrow,Leo McCarey,327,1937, USA ,92m, Family Drama
+The Killing of a Chinese Bookie,John Cassavetes,328,1976, USA ,109m, Crime
+It Happened One Night,Frank Capra,329,1934, USA ,105m, Romantic Comedy
+City of God,Fernando Meirelles & Kátia Lund,330,2002, Brazil-Germany-France ,129m, Crime Drama
+Kiss Me Deadly,Robert Aldrich,331,1955, USA ,106m, Thriller
+In the Realm of the Senses,Nagisa Oshima,332,1976, Japan-France ,109m, Erotic Drama
+The Crime of Monsieur Lange,Jean Renoir,333,1936, France ,90m, Drama
+Marnie,Alfred Hitchcock,334,1964, USA ,129m, Romantic Mystery
+El,Luis Buñuel,335,1953, Mexico ,91m, Black Comedy
+Written on the Wind,Douglas Sirk,336,1956, USA ,99m, Melodrama
+The Green Ray,Eric Rohmer,337,1986, France ,96m, Romantic Drama
+Russian Ark,Aleksandr Sokurov,338,2002, Russia-Germany-Japan-Canada-Finland-Denmark ,96m, Avant-garde-Experimental
+Lost Highway,David Lynch,339,1997, USA-France ,134m, Mystery
+October,Sergei Eisenstein & Grigori Aleksandrov,340,1928, USSR ,103m, Historical Film
+A Touch of Zen,King Hu,341,1971, Taiwan ,200m, Martial Arts
+"I Was Born, Butâ¦",Yasujiro Ozu,342,1932, Japan ,100m, Comedy Drama
+Happy Together,Wong Kar-wai,343,1997, Hong Kong ,97m, Romance
+Werckmeister Harmonies,Béla Tarr,344,2000, Hungary-Germany-France-Switzerland-Italy ,145m, Horror
+Heat,Michael Mann,345,1995, USA ,174m, Crime
+Eyes Without a Face,Georges Franju,346,1960, France-Italy ,88m, Horror
+I Am Cuba,Mikhail Kalatozov,347,1964, USSR-Cuba ,141m, Drama
+Through the Olive Trees,Abbas Kiarostami,348,1994, Iran-France ,103m, Drama
+ClÃ©o from 5 to 7,Agnès Varda,349,1962, France ,90m, Drama
+Stromboli,Roberto Rossellini,350,1950, Italy ,107m, Melodrama
+The King of Comedy,Martin Scorsese,351,1983, USA ,109m, Showbiz Comedy
+The Palm Beach Story,Preston Sturges,352,1942, USA ,90m, Screwball Comedy
+Last Tango in Paris,Bernardo Bertolucci,353,1972, France-Italy ,136m, Psychological Drama
+Landscape in the Mist,Theo Angelopoulos,354,1988, Greece-France-Italy ,125m, Road Movie
+In a Year with 13 Moons,Rainer Werner Fassbinder,355,1978, West Germany ,129m, Drama
+High Noon,Fred Zinnemann,356,1952, USA ,84m, Western
+Shoot the Piano Player,François Truffaut,357,1960, France ,92m, Crime Drama
+All That Heaven Allows,Douglas Sirk,358,1955, USA ,89m, Melodrama
+Woman in the Dunes,Hiroshi Teshigahara,359,1964, Japan ,127m, Avant-garde-Experimental
+Tie Xi Qu: West of the Tracks,Wang Bing,360,2003, China ,551m, Culture & Society
+Le Voyage dans la lune,Georges Méliès,361,1902, France ,14m, Science Fiction
+Quince Tree of the Sun,Victor Erice,362,1992, Spain ,133m, Drama
+Teorema,Pier Paolo Pasolini,363,1968, Italy ,98m, Drama
+Wanda,Barbara Loden,364,1970, USA ,105m, Drama
+Nostalghia,Andrei Tarkovsky,365,1983, Italy ,120m, Drama
+The Tenant,Roman Polanski,366,1976, France-USA ,125m, Thriller
+The Silence of the Lambs,Jonathan Demme,367,1991, USA ,118m, Thriller
+Stranger Than Paradise,Jim Jarmusch,368,1984, USA ,90m, Comedy
+Butch Cassidy and the Sundance Kid,George Roy Hill,369,1969, USA ,112m, Western
+Ivan's Childhood,Andrei Tarkovsky,370,1962, USSR ,94m, War
+Tristana,Luis Buñuel,371,1970, Spain-Italy-France ,98m, Psychological Drama
+Aliens,James Cameron,372,1986, USA ,137m, Horror
+Days of Being Wild,Wong Kar-wai,373,1990, Hong Kong ,94m, Drama
+Don't Look Back,D.A. Pennebaker,374,1967, USA ,96m, Music
+Network,Sidney Lumet,375,1976, USA ,121m, Comedy Drama
+An Affair to Remember,Leo McCarey,376,1957, USA ,115m, Romance
+The Double Life of Veronique,Krzysztof Kieslowski,377,1991, France ,97m, Romantic Drama
+Festen,Thomas Vinterberg,378,1998, Denmark ,105m, Ensemble Film
+The Bridge on the River Kwai,David Lean,379,1957, UK ,161m, War
+If....,Lindsay Anderson,380,1968, UK ,111m, Drama
+Dogville,Lars von Trier,381,2003, Denmark-Sweden-France-UK-Germany-Finland-Italy-Netherlands-Norway ,177m, Drama
+Salvatore Giuliano,Francesco Rosi,382,1962, Italy ,125m, Crime
+High and Low,Akira Kurosawa,383,1963, Japan ,142m, Drama
+Brokeback Mountain,Ang Lee,384,2005, USA-Canada ,134m, Romantic Drama
+Fitzcarraldo,Werner Herzog,385,1982, West Germany ,157m, Adventure Drama
+Man of Aran,Robert Flaherty,386,1934, UK ,77m, Anthropology
+The Shawshank Redemption,Frank Darabont,387,1994, USA ,142m, Drama
+The Hustler,Robert Rossen,388,1961, USA ,135m, Drama
+Army of Shadows,Jean-Pierre Melville,389,1969, France-Italy ,140m, Resistance Film
+The Innocents,Jack Clayton,390,1961, UK ,100m, Horror
+The Young Girls of Rochefort,Jacques Demy,391,1967, France ,124m, Romance
+1900,Bernardo Bertolucci,392,1976, Italy-France-West Germany ,245m, Political Drama
+Yojimbo,Akira Kurosawa,393,1961, Japan ,110m, Adventure
+Suspiria,Dario Argento,394,1977, Italy ,92m, Horror
+Heaven's Gate,Michael Cimino,395,1980, USA ,219m, Epic Western
+Fight Club,David Fincher,396,1999, USA-Germany ,139m, Satire
+The Cloud-Capped Star	,Ritwik Ghatak,397,1960, India ,126m, Family Drama
+Carrie,Brian De Palma,398,1976, USA ,97m, Horror
+WALL-E,Andrew Stanton,399,2008, USA ,98m, Sci-Fi Adventure
+Daisies,Vera Chytilová,400,1966, Czechoslovakia ,76m, Avant-garde-Experimental
+I Know Where I'm Going!,Michael Powell & Emeric Pressburger,401,1945, UK ,91m, Drama
+Shadows,John Cassavetes,402,1959, USA ,87m, Drama
+Raise the Red Lantern,Zhang Yimou,403,1991, Hong Kong ,125m, Period Film
+Monty Python's Life of Brian,Terry Jones,404,1979, UK ,93m, Parody
+A Star is Born,George Cukor,405,1954, USA ,154m, Musical
+"Out 1, noli me tangere",Jacques Rivette,406,1971, France ,729m, Drama
+Chelsea Girls,Andy Warhol,407,1966, USA ,210m, Avant-garde-Experimental
+The Awful Truth,Leo McCarey,408,1937, USA ,92m, Romantic Comedy
+Scenes from a Marriage,Ingmar Bergman,409,1973, Sweden ,168m, Drama
+French Cancan,Jean Renoir,410,1955, France ,93m, Comedy Drama
+Day for Night,François Truffaut,411,1973, France ,120m, Comedy Drama
+Charulata,Satyajit Ray,412,1964, India ,117m, Drama
+The Dead,John Huston,413,1987, USA ,83m, Drama
+Dead Ringers,David Cronenberg,414,1988, Canada ,115m, Drama
+A Moment of Innocence,Mohsen Makhmalbaf,415,1996, Iran-France ,78m, Comedy Drama
+Early Summer,Yasujiro Ozu,416,1951, Japan ,135m, Drama
+The White Ribbon,Michael Haneke,417,2009, Germany-Austria-France-Italy ,144m, Drama
+Hour of the Wolf,Ingmar Bergman,418,1968, Sweden ,88m, Gothic Film
+Barren Lives,Nelson Pereira dos Santos,419,1963, Brazil ,103m, Drama
+The Cameraman,Buster Keaton & Edward Sedgwick,420,1928, USA ,69m, Slapstick
+Mon oncle,Jacques Tati,421,1958, France ,126m, Satire
+Taste of Cherry,Abbas Kiarostami,422,1997, Iran ,99m, Drama
+The House is Black,Forugh Farrokhzad,423,1963, Iran ,20m, Illnesses & Disabilities
+Five Easy Pieces,Bob Rafelson,424,1970, USA ,98m, Drama
+The Long Goodbye,Robert Altman,425,1973, USA ,112m, Mystery
+Two-Lane Blacktop,Monte Hellman,426,1971, USA ,101m, Drama
+Land Without Bread,Luis Buñuel,427,1932, Spain ,28m, Culture & Society
+Ã nos amours,Maurice Pialat,428,1983, France ,102m, Drama
+Opening Night,John Cassavetes,429,1977, USA ,144m, Ensemble Film
+Talk to Her,Pedro Almodóvar,430,2002, Spain ,112m, Melodrama
+Uncle Boonmee Who Can Recall His Past Lives,Apichatpong Weerasethakul,431,2010, Thailand-UK-France-Germany-Spain-Netherlands ,113m, Avant-garde-Experimental
+Le Plaisir,Max Ophüls,432,1952, France ,97m, Romance
+The Tree of Wooden Clogs,Ermanno Olmi,433,1978, Italy ,185m, Rural Drama
+The Hour of the Furnaces,Fernando E. Solanas & Octavio Getino,434,1968, Argentina ,260m, Politics & Government
+The Gleaners & I,Agnès Varda,435,2000, France ,82m, Culture & Society
+The Elephant Man,David Lynch,436,1980, USA ,125m, Biography
+The Sound of Music,Robert Wise,437,1965, USA ,174m, Musical
+Masculin Feminin,Jean-Luc Godard,438,1966, France-Sweden ,103m, Urban Drama
+Closely Watched Trains,Jirí Menzel,439,1966, Czechoslovakia ,89m, War
+Pyaasa,Guru Dutt,440,1957, India ,146m, Drama
+Yellow Earth,Chen Kaige,441,1984, China ,89m, Family Drama
+Punch-Drunk Love,Paul Thomas Anderson,442,2002, USA ,95m, Comedy Drama
+Withnail & I,Bruce Robinson,443,1987, UK ,107m, Comedy
+To Have and Have Not,Howard Hawks,444,1944, USA ,100m, Drama
+Dersu Uzala,Akira Kurosawa,445,1975, USSR-Japan ,144m, Drama
+Koyaanisqatsi,Godfrey Reggio,446,1982, USA ,87m, Essay Film
+The Turin Horse,Béla Tarr,447,2011, Hungary-France-Germany-Switzerland-USA ,146m, Drama
+Kagemusha,Akira Kurosawa,448,1980, Japan ,159m, Historical Epic
+The Lady from Shanghai,Orson Welles,449,1948, USA ,87m, Film Noir
+"Crouching Tiger, Hidden Dragon",Ang Lee,450,2000, Taiwan-Hong Kong-USA-China ,120m, Martial Arts
+The Sorrow and the Pity,Marcel Ophüls,451,1969, France-Switzerland-Germany ,260m, Military & War
+The Death of Mr. Lazarescu,Cristi Puiu,452,2005, Romania ,154m, Drama
+A Night at the Opera,Sam Wood,453,1935, USA ,92m, Anarchic Comedy
+Platform,Jia Zhangke,454,2000, China-Hong Kong-Japan-France ,154m, Comedy Drama
+The Terminator,James Cameron,455,1984, USA ,108m, Science Fiction
+Toy Story,John Lasseter,456,1995, USA ,80m, Fantasy Comedy
+Halloween,John Carpenter,457,1978, USA ,93m, Horror
+Some Came Running,Vincente Minnelli,458,1958, USA ,136m, Drama
+Senso,Luchino Visconti,459,1954, Italy ,115m, Melodrama
+The Wind,Victor Sjöström,460,1928, USA ,88m, Drama
+Muriel,Alain Resnais,461,1963, France-Italy ,115m, Drama
+Strangers on a Train,Alfred Hitchcock,462,1951, USA ,101m, Psychological Thriller
+Easy Rider,Dennis Hopper,463,1969, USA ,94m, Road Movie
+Marketa LazarovÃ¡,Frantisek Vlácil,464,1967, Czechoslovakia ,162m, Epic
+Mad Max 2,George Miller,465,1981, Australia ,94m, Action
+Elephant,Gus Van Sant,466,2003, USA ,81m, Drama
+Boogie Nights,Paul Thomas Anderson,467,1997, USA ,155m, Comedy Drama
+Shane,George Stevens,468,1953, USA ,118m, Western
+The Scarlet Empress,Josef von Sternberg,469,1934, USA ,110m, Historical Film
+The Wind Will Carry Us,Abbas Kiarostami,470,1999, France-Iran ,118m, Drama
+Fantasia,Various Directors,471,1940, USA ,120m, Animated Musical
+Grey Gardens,"David Maysles, Albert Maysles, Ellen Hovde & Muffie Meyer",472,1975, USA ,95m, Culture & Society
+Alexander Nevsky,Sergei Eisenstein,473,1938, USSR ,107m, Historical Epic
+Oldboy,Park Chan-wook,474,2003, South Korea ,120m, Thriller
+12 Angry Men,Sidney Lumet,475,1957, USA ,95m, Drama
+The Cranes Are Flying,Mikhail Kalatozov,476,1957, USSR ,94m, Melodrama
+Shadow of a Doubt,Alfred Hitchcock,477,1943, USA ,108m, Thriller
+Safe,Todd Haynes,478,1995, USA ,119m, Medical Drama
+Short Cuts,Robert Altman,479,1993, USA ,189m, Ensemble Film
+Gimme Shelter,"Albert Maysles, David Maysles & Charlotte Zwerin",480,1970, USA ,91m, Music
+Tootsie,Sydney Pollack,481,1982, USA ,116m, Showbiz Comedy
+All That Jazz,Bob Fosse,482,1979, USA ,123m, Musical
+La RÃ©gion centrale,Michael Snow,483,1971, Canada ,180m, Avant-garde-Experimental
+Top Hat,Mark Sandrich,484,1935, USA ,99m, Musical Romance
+Naked,Mike Leigh,485,1993, UK ,126m, Urban Drama
+Les Vampires,Louis Feuillade,486,1915, France ,440m, Master Criminal Film
+Limelight,Charles Chaplin,487,1952, USA ,145m, Comedy Drama
+The Flowers of St. Francis,Roberto Rossellini,488,1950, Italy ,83m, Religious Drama
+Repulsion,Roman Polanski,489,1965, UK ,105m, Thriller
+Accattone,Pier Paolo Pasolini,490,1961, Italy ,120m, Urban Drama
+India Song,Marguerite Duras,491,1975, France ,120m, Avant-garde-Experimental
+Winter Light,Ingmar Bergman,492,1962, Sweden ,80m, Psychological Drama
+The Lives of Others,Florian Henckel von Donnersmarck,493,2006, Germany ,138m, Political Thriller
+All the President's Men,Alan J. Pakula,494,1976, USA ,138m, Political Drama
+Pinocchio,Ben Sharpsteen & Hamilton Luske,495,1940, USA ,88m, Children's Fantasy
+Chronicle of a Summer,Jean Rouch & Edgar Morin,496,1961, France ,85m, Culture & Society
+Lost in Translation,Sofia Coppola,497,2003, USA-Japan ,102m, Comedy
+The Enigma of Kaspar Hauser,Werner Herzog,498,1974, West Germany ,110m, Psychological Drama
+Triumph of the Will,Leni Riefenstahl,499,1935, Germany ,110m, Propaganda Film
+Melancholia,Lars von Trier,500,2011, Denmark-Sweden-France-Germany ,136m, Science Fiction
+Dead Man,Jim Jarmusch,501,1995, USA-Germany ,121m, Hybrid Western
+Lola,Jacques Demy,502,1961, France ,90m, Drama
+"Steamboat Bill, Jr.",Buster Keaton & Charles Reisner,503,1928, USA ,71m, Adventure Comedy
+The Phantom of Liberty,Luis Buñuel,504,1974, France ,104m, Satire
+Wagon Master,John Ford,505,1950, USA ,86m, Western
+Casino,Martin Scorsese,506,1995, USA ,182m, Gangster Film
+Shadows of Our Forgotten Ancestors,Sergei Parajanov,507,1964, USSR ,97m, Drama
+Flowers of Shanghai,Hou Hsiao-hsien,508,1998, Taiwan ,130m, Romantic Drama
+Hoop Dreams,Steve James,509,1994, USA ,170m, Sports
+Miracle in Milan,Vittorio De Sica,510,1951, Italy ,95m, Fantasy Comedy
+Point Blank,John Boorman,511,1967, USA ,92m, Crime
+Frankenstein,James Whale,512,1931, USA ,70m, Horror
+The Big Heat,Fritz Lang,513,1953, USA ,90m, Crime
+Forrest Gump,Robert Zemeckis,514,1994, USA ,142m, Comedy Drama
+Pat Garrett and Billy the Kid,Sam Peckinpah,515,1973, USA ,122m, Revisionist Western
+The Bitter Tears of Petra von Kant,Rainer Werner Fassbinder,516,1972, West Germany ,124m, Drama
+Barton Fink,Joel Coen & Ethan Coen,517,1991, USA ,117m, Comedy Drama
+Tale of Tales,Yuriy Norshteyn,518,1979, USSR ,29m, Avant-garde-Experimental
+Hannah and Her Sisters,Woody Allen,519,1986, USA ,106m, Comedy Drama
+The Silence,Ingmar Bergman,520,1963, Sweden ,96m, Psychological Drama
+The Rise to Power of Louis XIV,Roberto Rossellini,521,1966, France ,100m, Historical Film
+A.I. Artificial Intelligence,Steven Spielberg,522,2001, USA ,145m, Science Fiction
+Alphaville,Jean-Luc Godard,523,1965, France ,95m, Psychological Sci-Fi
+The Damned,Luchino Visconti,524,1969, Italy-West Germany ,155m, Political Drama
+The Wedding March,Erich von Stroheim,525,1928, USA ,113m, Drama
+In Vanda's Room,Pedro Costa,526,2000, Portugal-Germany-Switzerland-Italy ,170m, DramaLena Duarte
+The Devils,Ken Russell,527,1971, UK ,109m, Historical Film
+East of Eden,Elia Kazan,528,1955, USA ,115m, Family Drama
+Rebel Without a Cause,Nicholas Ray,529,1955, USA ,111m, Teen Movie
+Doctor Zhivago,David Lean,530,1965, USA ,197m, Romantic Epic
+Bigger Than Life,Nicholas Ray,531,1956, USA ,95m, Psychological Drama
+The Servant,Joseph Losey,532,1963, UK ,115m, Drama
+A Separation,Asghar Farhadi,533,2011, Iran ,123m, Drama
+La Terra trema,Luchino Visconti,534,1948, Italy ,160m, Drama
+PlÃ¡cido,Luis García Berlanga,535,1961, Spain ,85m, ComedyCassen
+"Farewell, My Concubine",Chen Kaige,536,1993, Hong Kong-China ,155m, Drama
+Down by Law,Jim Jarmusch,537,1986, USA ,107m, Comedy
+Inland Empire,David Lynch,538,2006, USA-France-Poland ,180m, Avant-garde-Experimental
+Being There,Hal Ashby,539,1979, USA ,130m, Comedy
+Providence,Alain Resnais,540,1977, France-Switzerland ,110m, Drama
+Loves of a Blonde,Milos Forman,541,1965, Czechoslovakia ,88m, Comedy Drama
+Colossal Youth,Pedro Costa,542,2006, Portugal-France-Switzerland ,155m, Drama
+AmÃ©lie,Jean-Pierre Jeunet,543,2001, France-Germany ,122m, Romance
+Laura,Otto Preminger,544,1944, USA ,85m, Mystery
+That Obscure Object of Desire,Luis Buñuel,545,1977, France-Spain ,103m, Black Comedy
+Picnic at Hanging Rock,Peter Weir,546,1975, Australia ,110m, Mystery
+Our Hospitality,Buster Keaton & John G. Blystone,547,1923, USA ,74m, Comedy
+Cat People,Jacques Tourneur,548,1942, USA ,73m, Horror
+Ninotchka,Ernst Lubitsch,549,1939, USA ,110m, Romantic Comedy
+Pan's Labyrinth,Guillermo del Toro,550,2006, Spain-Mexico-USA ,120m, Fantasy
+No Country for Old Men,Joel Coen & Ethan Coen,551,2007, USA ,122m, Thriller
+Bring Me the Head of Alfredo Garcia,Sam Peckinpah,552,1974, USA ,112m, Black Comedy
+My Own Private Idaho,Gus Van Sant,553,1991, USA ,102m, Drama
+Splendor in the Grass,Elia Kazan,554,1961, USA ,124m, Coming-of-Age
+Trainspotting,Danny Boyle,555,1996, UK ,95m, Comedy Drama
+"The Devil, Probably",Robert Bresson,556,1977, France ,95m, Drama
+Grizzly Man,Werner Herzog,557,2005, USA ,103m, Nature
+Boudu Saved from Drowning,Jean Renoir,558,1932, France ,87m, Comedy
+Deliverance,John Boorman,559,1972, USA ,109m, Drama
+The Asphalt Jungle,John Huston,560,1950, USA ,112m, Crime Thriller
+I Vitelloni,Federico Fellini,561,1953, Italy ,104m, Drama
+Faust,F.W. Murnau,562,1926, Germany ,116m, Fantasy
+Aparajito,Satyajit Ray,563,1956, India ,108m, Drama
+Songs from the Second Floor,Roy Andersson,564,2000, Sweden-France-Denmark-Norway-Germany ,98m, Surrealist Film
+Die Hard,John McTiernan,565,1988, USA ,131m, Action
+Scorpio Rising,Kenneth Anger,566,1964, USA ,29m, Avant-garde-Experimental
+Ben-Hur,William Wyler,567,1959, USA ,212m, Religious Epic
+Secrets & Lies,Mike Leigh,568,1996, UK ,142m, Drama
+Limite,Mario Peixoto,569,1931, Brazil ,114m, Avant-garde
+The French Connection,William Friedkin,570,1971, USA ,104m, Crime
+Hana-bi,Takeshi Kitano,571,1997, Japan ,103m, Crime Drama
+Salesman,"Albert Maysles, David Maysles & Charlotte Zwerin",572,1969, USA ,85m, Culture & Society
+A Hard Day's Night,Richard Lester,573,1964, UK ,85m, Rock Musical
+The Royal Tenenbaums,Wes Anderson,574,2001, USA ,109m, Comedy Drama
+Rocky,John G. Avildsen,575,1976, USA ,119m, Drama
+Alice in the Cities,Wim Wenders,576,1974, West Germany ,110m, Drama
+Hatari!,Howard Hawks,577,1962, USA ,159m, Adventure
+NazarÃ­n,Luis Buñuel,578,1958, Mexico ,94m, Religious Drama
+Rushmore,Wes Anderson,579,1998, USA ,93m, Comedy Drama
+Fellini Satyricon,Federico Fellini,580,1969, Italy ,129m, Drama
+Detour,Edgar G. Ulmer,581,1945, USA ,69m, Film Noir
+Love Me Tonight,Rouben Mamoulian,582,1932, USA ,96m, Comedy
+And Life Goes Onâ¦,Abbas Kiarostami,583,1992, Iran ,108m, Drama
+Rosetta,Jean-Pierre Dardenne & Luc Dardenne,584,1999, Belgium-France ,94m, Drama
+The Lady Vanishes,Alfred Hitchcock,585,1938, UK ,97m, Spy Film
+Full Metal Jacket,Stanley Kubrick,586,1987, USA ,116m, Anti-War Film
+I Walked with a Zombie,Jacques Tourneur,587,1943, USA ,69m, Horror
+The Blue Angel,Josef von Sternberg,588,1930, Germany ,103m, Melodrama
+The Red Circle,Jean-Pierre Melville,589,1970, France-Italy ,140m, Crime Thriller
+Walkabout,Nicolas Roeg,590,1971, Australia ,95m, Adventure
+"Dr. Mabuse, The Gambler",Fritz Lang,591,1922, Germany ,270m, Master Criminal Film
+Scarface,Brian De Palma,592,1983, USA ,170m, Crime Thriller
+The Manchurian Candidate,John Frankenheimer,593,1962, USA ,126m, Political Thriller
+Silent Light,Carlos Reygadas,594,2007, Mexico-France-Netherlands ,136m, Psychological Drama
+Arrebato,Iván Zulueta,595,1979, Spain ,105m, Drama
+Memento,Christopher Nolan,596,2000, USA ,113m, Mystery
+Rebecca,Alfred Hitchcock,597,1940, USA ,130m, Mystery
+The Killing,Stanley Kubrick,598,1956, USA ,85m, Crime Thriller
+Blissfully Yours,Apichatpong Weerasethakul,599,2002, Thailand-France ,125m, Avant-garde-Experimental
+Bande Ã  part,Jean-Luc Godard,600,1964, France ,97m, Drama
+Twenty Years Later,Eduardo Coutinho,601,1984, Brazil ,119m, DocumentaryEduardo Coutinho
+Evil Dead II,Sam Raimi,602,1987, USA ,85m, Horror
+Dancer in the Dark,Lars von Trier,603,2000, Denmark-France-Sweden-Italy-Germany-Norway-Netherlands-Iceland-Finland-UK-USA ,140m, Musical Drama
+Les Amants du Pont-Neuf,Leos Carax,604,1991, France ,126m, Romantic Drama
+Great Expectations,David Lean,605,1946, UK ,118m, Drama
+The 39 Steps,Alfred Hitchcock,606,1935, UK ,87m, Thriller
+Seven Chances,Buster Keaton,607,1925, USA ,56m, Comedy of Errors
+Local Hero,Bill Forsyth,608,1983, UK ,111m, Comedy
+Young Frankenstein,Mel Brooks,609,1974, USA ,105m, Parody
+The Purple Rose of Cairo,Woody Allen,610,1985, USA ,82m, Comedy
+"Goodbye, Dragon Inn",Tsai Ming-liang,611,2003, Taiwan ,82m, Comedy Drama
+La Belle noiseuse,Jacques Rivette,612,1991, France ,240m, Drama
+The African Queen,John Huston,613,1951, USA ,105m, Romance
+Foolish Wives,Erich von Stroheim,614,1922, USA ,117m, DramaErich von Stroheim
+They Live by Night,Nicholas Ray,615,1948, USA ,95m, Crime Drama
+Raising Arizona,Joel Coen & Ethan Coen,616,1987, USA ,92m, Crime Comedy
+By the Bluest of Seas,Boris Barnet,617,1936, USSR ,71m, Comedy
+Requiem for a Dream,Darren Aronofsky,618,2000, USA ,100m, Addiction Drama
+The Fly,David Cronenberg,619,1986, USA ,100m, Science Fiction
+La Haine,Mathieu Kassovitz,620,1995, France ,93m, Urban Drama
+Se7en,David Fincher,621,1995, USA ,127m, Police Detective Film
+The Age of Innocence,Martin Scorsese,622,1993, USA ,133m, Period Film
+Titicut Follies,Frederick Wiseman,623,1967, USA ,87m, Social Issues
+Strike,Sergei Eisenstein,624,1925, USSR ,73m, Political Drama
+The Marriage of Maria Braun,Rainer Werner Fassbinder,625,1979, West Germany ,120m, War Drama
+Scarface,Howard Hawks,626,1932, USA ,90m, Gangster Film
+Children of Men,Alfonso Cuarón,627,2006, USA-UK ,109m, Psychological Sci-Fi
+Fat City,John Huston,628,1972, USA ,100m, Drama
+Zodiac,David Fincher,629,2007, USA ,158m, Mystery
+The Party,Blake Edwards,630,1968, USA ,99m, Comedy
+Breakfast at Tiffany's,Blake Edwards,631,1961, USA ,115m, Comedy Drama
+A Place in the Sun,George Stevens,632,1951, USA ,122m, Romantic Drama
+Before Sunset,Richard Linklater,633,2004, USA ,80m, Romance
+Lancelot du Lac,Robert Bresson,634,1974, France-Italy ,84m, Drama
+Antonio das Mortes,Glauber Rocha,635,1969, Brazil ,95m, Adventure Drama
+Monty Python and the Holy Grail,Terry Gilliam,636,1975, UK ,90m, Anarchic Comedy
+Terminator 2: Judgment Day,James Cameron,637,1991, USA ,136m, Science Fiction
+Nouvelle vague,Jean-Luc Godard,638,1990, France-Switzerland ,88m, Avant-garde-Experimental
+Funny Games,Michael Haneke,639,1997, Austria ,108m, Crime Thriller
+The Round-Up,Miklós Jancsó,640,1966, Hungary ,94m, Political Drama
+Mother and Son,Aleksandr Sokurov,641,1997, Russia-Germany ,73m, Family Drama
+Young Mr. Lincoln,John Ford,642,1939, USA ,100m, Historical Film
+The Tiger of Eschnapur,Fritz Lang,643,1958, West Germany-France-Italy ,101m, Adventure Drama
+The Man Who Would Be King,John Huston,644,1975, USA ,129m, Adventure
+Yeelen,Souleymane Cissé,645,1987, Mali-Burkina Faso-France-West Germany-Japan ,105m, Coming-of-Age
+White Heat,Raoul Walsh,646,1949, USA ,114m, Crime
+Dazed and Confused,Richard Linklater,647,1993, USA ,94m, Comedy Drama
+Edward Scissorhands,Tim Burton,648,1990, USA ,100m, Fantasy Comedy
+Xala,Ousmane Sembene,649,1975, Senegal ,123m, Comedy
+Orlando,Sally Potter,650,1992, UK-Russia-France-Italy-Netherlands ,94m, Drama
+A Short Film About Killing,Krzysztof Kieslowski,651,1987, Poland ,85m, Drama
+After Life,Hirokazu Koreeda,652,1998, Japan ,118m, Fantasy
+Mr. Smith Goes to Washington,Frank Capra,653,1939, USA ,129m, Comedy Drama
+JFK,Oliver Stone,654,1991, USA ,188m, Political Thriller
+Nostalgia for the Light,Patricio Guzmán,655,2010, France-Germany-Chile-Spain-USA ,90m, Social History
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,656,2001, USA-New Zealand ,178m, Epic
+Un Chant d'amour,Jean Genet,657,1950, France ,26m, Avant-garde-Experimental
+Zelig,Woody Allen,658,1983, USA ,79m, Mockumentary
+Y tu mamÃ¡ tambiÃ©n,Alfonso Cuarón,659,2001, Mexico ,105m, Coming-of-Age
+Les Dames du Bois de Boulogne	,Robert Bresson,660,1945, France ,85m, Psychological Drama
+Bambi,David Hand,661,1942, USA ,69m, Children's Fantasy
+Gummo,Harmony Korine,662,1997, USA ,88m, Avant-garde-Experimental
+"Synecdoche, New York",Charlie Kaufman,663,2008, USA ,124m, Psychological Drama
+The Wild Child,François Truffaut,664,1970, France ,85m, Period Film
+Passion,Jean-Luc Godard,665,1982, France-Switzerland ,87m, Psychological Drama
+The Great Escape,John Sturges,666,1963, USA ,168m, Escape Film
+The Dark Knight,Christopher Nolan,667,2008, USA-UK ,152m, Crime Drama
+My Life as a Dog,Lasse Hallström,668,1985, Sweden ,101m, Coming-of-Age
+El Sur,Victor Erice,669,1983, Spain-France ,95m, DramaOmero Antonutti
+The Son,Jean-Pierre Dardenne & Luc Dardenne,670,2002, Belgium-France ,103m, Drama
+Crash,David Cronenberg,671,1996, Canada ,100m, Erotic Drama
+Edvard Munch,Peter Watkins,672,1974, Sweden-Norway ,210m, Drama
+Europa '51,Roberto Rossellini,673,1952, Italy ,113m, Drama
+Distant,Nuri Bilge Ceylan,674,2002, Turkey-Netherlands ,110m, Psychological Drama
+Fellini's Roma,Federico Fellini,675,1972, Italy ,128m, Satire
+The Wicker Man,Robin Hardy,676,1973, UK ,103m, Occult Horror
+Possession,Andrzej Zulawski,677,1981, France-West Germany ,127m, Marriage Drama
+Claire's Knee,Eric Rohmer,678,1970, France ,105m, Comedy Drama
+The Navigator,Buster Keaton & Donald Crisp,679,1924, USA ,59m, Comedy
+Robocop,Paul Verhoeven,680,1987, USA ,103m, Action
+Lolita,Stanley Kubrick,681,1962, UK ,152m, Black Comedy
+Les Diaboliques,Henri-Georges Clouzot,682,1955, France ,114m, Thriller
+Spartacus,Stanley Kubrick,683,1960, USA ,184m, Sword-and-Sandal
+W.R.: Mysteries of the Organism,Dusan Makavejev,684,1971, Yugoslavia ,84m, Avant-garde-Experimental
+Superman,Richard Donner,685,1978, USA ,143m, Action
+The Emperor's Naked Army Marches On,Kazuo Hara,686,1987, Japan ,123m, History
+Miller's Crossing,Joel Coen & Ethan Coen,687,1990, USA ,115m, Crime
+The Woman Next Door,François Truffaut,688,1981, France ,106m, Romantic Drama
+Vagabond,Agnès Varda,689,1985, France ,105m, Drama
+Shock Corridor,Samuel Fuller,690,1963, USA ,101m, Drama
+Flaming Creatures,Jack Smith,691,1963, USA ,43m, Avant-garde-Experimental
+Harakiri,Masaki Kobayashi,692,1962, Japan ,133m, Drama
+The Golden Coach,Jean Renoir,693,1952, Italy-France ,100m, Costume Adventure
+"Harlan County, U.S.A.",Barbara Kopple,694,1976, USA ,103m, Social Issues
+Vive L'Amour,Tsai Ming-liang,695,1994, Taiwan ,118m, Drama
+The Seasons,Artavazd Peleshian,696,1975, USSR ,29m," Documentary""Vremena goda"
+Dirty Harry,Don Siegel,697,1971, USA ,102m, Crime
+Still Life,Jia Zhangke,698,2006, China-Hong Kong ,113m, Drama
+The Bad and the Beautiful,Vincente Minnelli,699,1952, USA ,118m, Drama
+Thelma & Louise,Ridley Scott,700,1991, USA ,128m, Road Movie
+Gun Crazy,Joseph H. Lewis,701,1950, USA ,86m, Film Noir
+Invasion of the Body Snatchers,Don Siegel,702,1956, USA ,80m, Science Fiction
+"4 Months, 3 Weeks and 2 Days",Cristian Mungiu,703,2007, Romania-Netherlands-France-Germany ,113m, Drama
+Ferris Bueller's Day Off,John Hughes,704,1986, USA ,103m, Comedy
+The Killer,John Woo,705,1989, Hong Kong ,110m, Crime
+"Faster, Pussycat! Kill! Kill!",Russ Meyer,706,1965, USA ,83m, Sexploitation
+The Testament of Dr. Mabuse,Fritz Lang,707,1933, Germany ,120m, Master Criminal Film
+A Streetcar Named Desire,Elia Kazan,708,1951, USA ,122m, Marriage Drama
+Moulin Rouge!,Baz Luhrmann,709,2001, USA-Australia ,126m, Musical
+An Angel at My Table,Jane Campion,710,1990, New Zealand-Australia-UK-USA ,158m, Biography
+Casque d'or,Jacques Becker,711,1952, France ,96m, Crime Drama
+The Tin Drum,Volker Schlöndorff,712,1979, West Germany-France-Poland-Yugoslavia ,142m, Political Drama
+The Chronicle of Anna Magdalena Bach,Jean-Marie Straub,713,1968, West Germany-Italy ,94m, Drama
+My Friend Ivan Lapshin,Aleksey German,714,1985, USSR ,100m, Police Drama
+Titanic,James Cameron,715,1997, USA ,194m, Romantic Epic
+The Thief of Bagdad,"Michael Powell, Ludwig Berger & Tim Whelan",716,1940, UK ,106m, Fantasy
+Smiles of a Summer Night,Ingmar Bergman,717,1955, Sweden ,108m, Comedy
+The Red Balloon,Albert Lamorisse,718,1956, France ,34m, Children's
+L.A. Confidential,Curtis Hanson,719,1997, USA ,137m, Crime
+Airplane!,"Jim Abrahams, David Zucker & Jerry Zucker",720,1980, USA ,86m, Anarchic Comedy
+The Piano Teacher,Michael Haneke,721,2001, Austria-France-Germany ,130m, Psychological Drama
+Saturday Night and Sunday Morning,Karel Reisz,722,1960, UK ,89m, Drama
+Saving Private Ryan,Steven Spielberg,723,1998, USA ,169m, War
+The Idiots,Lars von Trier,724,1998, Denmark-Spain-Sweden-France-Netherlands-Italy ,117m, Comedy Drama
+Les MaÃ®tres fous,Jean Rouch,725,1955, France ,36m, Culture & Society
+The Virgin Spring,Ingmar Bergman,726,1959, Sweden ,88m, Drama
+Kaagaz Ke Phool,Guru Dutt,727,1959, India ,148m, Romance
+Syndromes and a Century,Apichatpong Weerasethakul,728,2006, Thailand-France-Austria-Netherlands ,105m, Drama
+The Trial,Orson Welles,729,1962, France-West Germany-Italy ,118m, Drama
+Ace in the Hole,Billy Wilder,730,1951, USA ,112m, Drama
+Dodes'ka-den,Akira Kurosawa,731,1970, Japan ,140m, Ensemble Film
+Red Sorghum,Zhang Yimou,732,1987, China ,91m, Rural Drama
+The Ascent,Larisa Shepitko,733,1976, USSR ,111m, War Drama
+Ghostbusters,Ivan Reitman,734,1984, USA ,107m, Fantasy
+Who's Afraid of Virginia Woolf?,Mike Nichols,735,1966, USA ,129m, Marriage Drama
+The Age of the Earth,Glauber Rocha,736,1980, Brazil ,158m, Religious Epic
+All Quiet on the Western Front,Lewis Milestone,737,1930, USA ,133m, War Drama
+The Circus,Charles Chaplin,738,1928, USA ,72m, Comedy
+Starship Troopers,Paul Verhoeven,739,1997, USA ,129m, Sci-Fi Action
+Blow Out,Brian De Palma,740,1981, USA ,107m, Political Thriller
+Wild at Heart,David Lynch,741,1990, USA ,127m, Road Movie
+When Harry Met Sally...,Rob Reiner,742,1989, USA ,95m, Romance
+It's a Gift,Norman Z. McLeod,743,1934, USA ,73m, Comedy
+The Holy Mountain,Alejandro Jodorowsky,744,1973, Mexico-USA ,114m, Avant-garde-Experimental
+Rififi,Jules Dassin,745,1955, France ,115m, Crime Thriller
+A Woman of Paris,Charles Chaplin,746,1923, USA ,81m, Romance
+The Last Emperor,Bernardo Bertolucci,747,1987, China-Italy-UK-France ,160m, Historical Film
+Abraham's Valley,Manoel de Oliveira,748,1993, Portugal-France-Switzerland ,187m, Psychological DramaLeonor Silveira
+Blood Simple,Joel Coen & Ethan Coen,749,1984, USA ,97m, Post-Noir (Modern Noir)
+The Miracle of Morgan's Creek,Preston Sturges,750,1944, USA ,99m, Satire
+Olympia,Leni Riefenstahl,751,1938, Germany ,220m, Sports
+Time of the Gypsies,Emir Kusturica,752,1989, Yugoslavia ,142m, Comedy Drama
+Hitler: A Film from Germany,Hans-Jürgen Syberberg,753,1977, West Germany-France-UK ,442m, Avant-garde-Experimental
+The Right Stuff,Philip Kaufman,754,1983, USA ,193m, Drama
+The Headless Woman,Lucrecia Martel,755,2008, Argentina-Spain-France-Italy ,87m, Thriller
+Forbidden Games,René Clément,756,1952, France ,87m, Childhood Drama
+Vengeance is Mine,Shohei Imamura,757,1979, Japan ,129m, Crime
+Van Gogh,Maurice Pialat,758,1991, France ,155m, Drama
+The Last Detail,Hal Ashby,759,1973, USA ,105m, Comedy Drama
+A History of Violence,David Cronenberg,760,2005, USA-Germany ,96m, Crime Thriller
+Ossessione,Luchino Visconti,761,1943, Italy ,140m, Drama
+The Long Day Closes,Terence Davies,762,1992, UK ,83m, Coming-of-Age
+Port of Shadows,Marcel Carné,763,1938, France ,91m, Romantic Drama
+La CiÃ©naga,Lucrecia Martel,764,2001, Argentina-France-Spain ,103m, DramaMercedes Moran
+Moonfleet,Fritz Lang,765,1955, USA ,89m, Costume Adventure
+The Sweet Hereafter,Atom Egoyan,766,1997, Canada ,112m, Drama
+Code Unknown,Michael Haneke,767,2000, France-Germany-Romania ,116m, Ensemble Film
+Black Girl,Ousmane Sembene,768,1966, Senegal-France ,65m, Drama
+Avatar,James Cameron,769,2009, USA-UK ,161m, Science Fiction
+Hunger,Steve McQueen,770,2008, UK-Ireland ,96m, Prison Film
+The Blues Brothers,John Landis,771,1980, USA ,130m, Action Comedy
+Z,Constantin Costa-Gavras,772,1969, France ,127m, Thriller
+Le Sang des bÃªtes,Georges Franju,773,1949, France ,20m, Culture & Society
+Morocco,Josef von Sternberg,774,1930, USA ,92m, Romance
+Crumb,Terry Zwigoff,775,1994, USA ,119m, Documentary
+The Princess Bride,Rob Reiner,776,1987, USA ,98m, Adventure Comedy
+Il Grido,Michelangelo Antonioni,777,1957, Italy ,111m, Drama
+Sauve qui peut (la vie),Jean-Luc Godard,778,1980, France-Switzerland ,87m, Psychological Drama
+The Ladykillers,Alexander Mackendrick,779,1955, UK ,90m, Crime
+The Lusty Men,Nicholas Ray,780,1952, USA ,113m, Drama
+Memories of Murder,Bong Joon-ho,781,2003, South Korea ,132m, Crime
+Dog Star Man,Stan Brakhage,782,1964, USA ,75m, Avant-garde-Experimental
+The Producers,Mel Brooks,783,1968, USA ,88m, Showbiz Comedy
+Donnie Darko,Richard Kelly,784,2001, USA ,112m, Fantasy
+The Misfits,John Huston,785,1961, USA ,124m, Drama
+She Wore a Yellow Ribbon,John Ford,786,1949, USA ,103m, Western
+NumÃ©ro deux,Jean-Luc Godard,787,1975, France ,88m, Avant-garde-Experimental
+Seven Women,John Ford,788,1966, USA ,87m, Drama
+Le Million,René Clair,789,1931, France ,85m, Musical Comedy
+Seventh Heaven,Frank Borzage,790,1927, USA ,119m, Romance
+Blue,Derek Jarman,791,1993, UK ,76m, Avant-garde
+Big Deal on Madonna Street,Mario Monicelli,792,1958, Italy ,91m, Crime Comedy
+The Breakfast Club,John Hughes,793,1985, USA ,97m, Comedy Drama
+American Beauty,Sam Mendes,794,1999, USA ,121m, Comedy Drama
+They Were Expendable,John Ford,795,1945, USA ,135m, War Drama
+The New World,Terrence Malick,796,2005, USA ,135m, Historical Film
+"The Cook, The Thief, His Wife & Her Lover",Peter Greenaway,797,1989, UK-France ,120m, Black Comedy
+The Last Temptation of Christ,Martin Scorsese,798,1988, USA ,164m, Religious Drama
+Dumbo,Ben Sharpsteen,799,1941, USA ,64m, Animated Musical
+An American in Paris,Vincente Minnelli,800,1951, USA ,115m, Musical
+We All Loved Each Other So Much,Ettore Scola,801,1974, Italy ,124m, Comedy Drama
+Spione,Fritz Lang,802,1928, Germany ,90m, Thriller
+Ludwig,Luchino Visconti,803,1973, Italy-France-West Germany ,235m, Historical Film
+The Host,Bong Joon-ho,804,2006, South Korea-Japan ,119m, Sci-Fi Horror
+Saturday Night Fever,John Badham,805,1977, USA ,119m, Dance Film
+Princess Mononoke,Hayao Miyazaki,806,1997, Japan ,134m, Anime
+The River,Tsai Ming-liang,807,1997, Taiwan ,115m, Drama
+The Ghost and Mrs. Muir,Joseph L. Mankiewicz,808,1947, USA ,104m, Romance
+Pickup on South Street,Samuel Fuller,809,1953, USA ,80m, Thriller
+Anatomy of a Murder,Otto Preminger,810,1959, USA ,160m, Drama
+Deep End,Jerzy Skolimowski,811,1970, UK-West Germany ,88m, Drama
+Au revoir les enfants,Louis Malle,812,1987, France ,103m, War Drama
+Cool Hand Luke,Stuart Rosenberg,813,1967, USA ,126m, Drama
+La Nuit du carrefour,Jean Renoir,814,1932, France ,73m, Police Detective Film
+Million Dollar Baby,Clint Eastwood,815,2004, USA ,137m, Sports Drama
+Pink Flamingos,John Waters,816,1972, USA ,92m, Comedy
+American Graffiti,George Lucas,817,1973, USA ,110m, Comedy Drama
+Women on the Verge of a Nervous Breakdown,Pedro Almodóvar,818,1988, Spain ,88m, Comedy
+Rope,Alfred Hitchcock,819,1948, USA ,80m, Thriller
+Le Jour se lÃ¨ve,Marcel Carné,820,1939, France ,93m, Crime Drama
+Branded to Kill,Seijun Suzuki,821,1967, Japan ,91m, Gangster Film
+Akira,Katsuhiro Otomo,822,1988, Japan ,124m, Science Fiction
+42nd Street,Lloyd Bacon,823,1933, USA ,89m, Backstage Musical
+Fires Were Started,Humphrey Jennings,824,1943, UK ,80m, Military & War
+"New York, New York",Martin Scorsese,825,1977, USA ,164m, Period Film
+Burnt by the Sun,Nikita Mikhalkov,826,1994, Russia-France ,152m, Political Drama
+O Lucky Man!,Lindsay Anderson,827,1973, UK ,173m, Comedy
+Street of Shame,Kenji Mizoguchi,828,Akasen chitai (original title)1956, Japan ,96m, Melodrama
+The End of Summer,Yasujiro Ozu,829,1961, Japan ,103m, Drama
+The Return,Andrey Zvyagintsev,830,2003, Russia ,110m, Psychological Drama
+Topsy-Turvy,Mike Leigh,831,1999, UK-USA ,160m, Comedy Drama
+Night of the Demon,Jacques Tourneur,832,1957, UK ,82m, Occult Horror
+L'Enfance nue,Maurice Pialat,833,1968, France ,80m, Childhood Drama
+The Ladies Man,Jerry Lewis,834,1961, USA ,95m, Comedy
+Sicilia!,Jean-Marie Straub & Danièle Huillet,835,1999, Italy-France-Germany ,66m, Family Drama
+Fort Apache,John Ford,836,1948, USA ,127m, Western
+Veronika Voss,Rainer Werner Fassbinder,837,1982, West Germany ,105m, Drama
+The Intruder,Claire Denis,838,2004, France-Korea ,130m, Drama
+The Hart of London,Jack Chambers,839,1970, Canada ,80m,"Avant-garde-Experimental""Jack Chambers's 80-minute The Hart of London is a sprawling"
+Jurassic Park,Steven Spielberg,840,1993, USA ,126m, Prehistoric Fantasy
+Central Station,Walter Salles,841,1998, Brazil-France-Spain-Japan ,110m, Drama
+Two English Girls,François Truffaut,842,1971, France ,108m, Romantic Drama
+Forbidden Planet,Fred M. Wilcox,843,1956, USA ,98m, Science Fiction
+The Sun Shines Bright,John Ford,844,1953, USA ,90m, Drama
+Arabian Nights,Pier Paolo Pasolini,845,1974, Italy-France ,130m, Adventure
+HÃ´tel Terminus,Marcel Ophüls,846,1987, USA ,267m, History
+Taipei Story,Edward Yang,847,1985, Taiwan ,110m, Romantic Drama
+La Chienne,Jean Renoir,848,1931, France ,95m, Drama
+Black Orpheus,Marcel Camus,849,1959, Brazil-France ,103m, Fantasy
+LÃ©on,Luc Besson,850,1994, France ,119m, Action Thriller
+The Ice Storm,Ang Lee,851,1997, USA ,113m, Family Drama
+3 Women,Robert Altman,852,1977, USA ,125m, Drama
+Cul-de-sac,Roman Polanski,853,1966, UK ,111m, Comedy Thriller
+"Diaries, Notes and Sketches",Jonas Mekas,854,1969, USA ,177m, Avant-garde
+The Bridges of Madison County,Clint Eastwood,855,1995, USA ,135m, Romance
+Assault on Precinct 13,John Carpenter,856,1976, USA ,90m, Action Thriller
+The Naked Island,Kaneto Shindo,857,1960, Japan ,94m, Rural DramaNobuko Otowa
+Street Angel,Yuan Muzhi,858,1937, China ,91m, Drama
+Excalibur,John Boorman,859,1981, UK ,140m, Sword-and-Sorcery
+Get Carter,Mike Hodges,860,1971, UK ,112m, Crime Thriller
+News from Home,Chantal Akerman,861,1976, France-Belgium-West Germany ,85m, Avant-garde
+The Usual Suspects,Bryan Singer,862,1995, USA ,105m, Crime
+To Live,Zhang Yimou,863,1994, China-Hong Kong ,145m, Family Drama
+The Day the Earth Stood Still,Robert Wise,864,1951, USA ,92m, Science Fiction
+Othello,Orson Welles,865,1952, Italy-France-Morocco-USA ,90m, Drama
+Juliet of the Spirits,Federico Fellini,866,1965, Italy ,148m, Comedy Drama
+My Little Loves,Jean Eustache,867,1974, France ,123m, DramaMartin Loeb
+Gilda,Charles Vidor,868,1946, USA ,110m, Film Noir
+Mother India,Mehboob Khan,869,1957, India ,172m, Epic
+Knife in the Water,Roman Polanski,870,1962, Poland ,94m, Psychological Drama
+Le Trou,Jacques Becker,871,1960, France-Italy ,140m, Prison Film
+The Outlaw Josey Wales,Clint Eastwood,872,1976, USA ,135m, Western
+Henry V,Laurence Olivier,873,1944, UK ,137m, Historical Film
+The Incredible Shrinking Man,Jack Arnold,874,1957, USA ,81m, Science Fiction
+2046,Wong Kar-wai,875,2004, Hong Kong-China-France-Italy-Germany ,129m, Romance
+Grave of the Fireflies,Isao Takahata,876,1988, Japan ,93m, Anime
+Roman Holiday,William Wyler,877,1953, USA ,119m, Romance
+Odd Man Out,Carol Reed,878,1947, UK ,115m, Drama
+The 47 Ronin,Kenji Mizoguchi,879,1941, Japan ,219m, Historical Film
+The Match Factory Girl,Aki Kaurismäki,880,1990, Finland-Sweden ,68m, Drama
+Love and Death,Woody Allen,881,1975, USA ,82m, Comedy
+Not Reconciled,Jean-Marie Straub,882,1965, West Germany ,53m, Drama
+As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,Jonas Mekas,883,2000, USA ,288m, Biography
+La BÃªte humaine,Jean Renoir,884,1938, France ,99m, Crime Drama
+Ed Wood,Tim Burton,885,1994, USA ,124m, Comedy Drama
+Dust in the Wind,Hou Hsiao-hsien,886,1987, Taiwan ,109m, Drama
+On the Town,Stanley Donen & Gene Kelly,887,1949, USA ,98m, Musical
+The Criminal Life of Archibaldo de la Cruz,Luis Buñuel,888,1955, Mexico ,91m, Crime Comedy
+The Lord of the Rings: The Return of the King,Peter Jackson,889,2003, New Zealand-USA ,201m, Epic
+Near Dark,Kathryn Bigelow,890,1987, USA ,95m, Horror
+Il Posto,Ermanno Olmi,891,1961, Italy ,93m, Drama
+Simon of the Desert,Luis Buñuel,892,1965, Mexico ,43m, Satire
+Das Boot,Wolfgang Petersen,893,1981, West Germany ,149m, War Drama
+M*A*S*H,Robert Altman,894,1970, USA ,116m, Military Comedy
+LâEnfant secret,Philippe Garrel,895,1982, France ,92m, Romance
+Dracula,Terence Fisher,896,1958, UK ,82m, Costume Horror
+"Spring, Summer, Autumn, Winter... and Spring",Kim Ki-duk,897,2003, South Korea-Germany ,103m, Psychological Drama
+The Adventures of Robin Hood,Michael Curtiz & William Keighley,898,1938, USA ,102m, Swashbuckler
+Mon oncle d'AmÃ©rique,Alain Resnais,899,1980, France ,123m, Comedy Drama
+The Hawks and the Sparrows,Pier Paolo Pasolini,900,1966, Italy ,91m, Comedy
+Ride the High Country,Sam Peckinpah,901,1962, USA ,94m, Western
+Reds,Warren Beatty,902,1981, USA ,200m, Epic
+Louisiana Story,Robert Flaherty,903,1948, USA ,77m, Culture & Society
+Gregory's Girl,Bill Forsyth,904,1980, UK ,91m, Comedy Drama
+Angel,Ernst Lubitsch,905,1937, USA ,91m, Romantic Drama
+A Tale of the Wind,Joris Ivens,906,1988, France-UK-West Germany-Netherlands ,80m, Culture & Society
+National Lampoon's Animal House,John Landis,907,1978, USA ,109m, Gross-Out Comedy
+Elephant,Alan Clarke,908,1989, UK ,39m, Drama
+The Godfather Part III,Francis Ford Coppola,909,1990, USA ,161m, Crime Drama
+Berlin: Symphony of a Great City,Walter Ruttmann,910,1927, Germany ,65m, Avant-garde-Experimental
+Ballad of Narayama,Shohei Imamura,911,1983, Japan ,130m, Rural Drama
+Gentlemen Prefer Blondes,Howard Hawks,912,1953, US ,91m, Musical Comedy
+Anatahan,Josef von Sternberg,913,1953, Japan ,90m, Drama
+Before Sunrise,Richard Linklater,914,1995, USA ,101m, Romance
+Holiday,George Cukor,915,1938, USA ,93m, Comedy
+Akira Kurosawa's Dreams,Akira Kurosawa,916,1990, USA ,120m, Drama
+The Reckless Moment,Max Ophüls,917,1949, USA ,82m, Crime Drama
+Fellini's Casanova,Federico Fellini,918,1976, Italy ,158m, Comedy Drama
+Midnight Run,Martin Brest,919,1988, USA ,122m, Odd Couple Film
+El Dorado,Howard Hawks,920,1967, USA ,126m, Western
+El Topo,Alejandro Jodorowsky,921,1970, Mexico ,124m, Surrealist Film
+Exotica,Atom Egoyan,922,1994, Canada ,104m, Psychological Drama
+The Firemen's Ball,Milos Forman,923,1967, Czechoslovakia ,73m, Comedy
+Sholay,Ramesh Sippy,924,1975, India ,162m, Action
+Zabriskie Point,Michelangelo Antonioni,925,1970, USA ,112m, Drama
+Mildred Pierce,Michael Curtiz,926,1945, USA ,109m, Melodrama
+"Moi, un Noir",Jean Rouch,927,1958, France ,70m, Culture & Society
+"Too Early, Too Late",Jean-Marie Straub & Danièle Huillet,928,1981, Germany ,100m, DocumentaryBahgat Elnadi
+The Verdict,Sidney Lumet,929,1982, USA ,129m, Drama
+Le Bonheur,Agnès Varda,930,1965, France ,79m, Romance
+Yol,Serif Gören & Yilmaz Güney,931,1982, Turkey-Switzerland-France ,114m, Political Drama
+A Grin Without a Cat,Chris Marker,932,1977, France ,240m, Documentary
+Duel in the Sun,King Vidor,933,1946, USA ,130m, Western
+PÃ©pÃ© le Moko,Julien Duvivier,934,1937, France ,94m, Romantic Drama
+The Ten Commandments,Cecil B. DeMille,935,1956, USA ,220m, Religious Epic
+A Diary for Timothy,Humphrey Jennings,936,1945, UK ,40m, Culture & Society
+Outer Space,Peter Tscherkassky,937,1999, Austria ,10m," Avant-garde-Experimental""The film immediately creates an atmosphere of sinister foreboding in its liminal"
+Finding Nemo,Andrew Stanton,938,2003, USA ,100m, Family-Oriented Comedy
+Bob le flambeur,Jean-Pierre Melville,939,1955, France ,102m, Crime
+The Man Who Fell to Earth,Nicolas Roeg,940,1976, UK ,140m, Psychological Sci-Fi
+India: Matri Bhumi,Roberto Rossellini,941,1959, Italy-France ,90m, Documentary
+The Tarnished Angels,Douglas Sirk,942,1957, USA ,91m, Adventure
+Mamma Roma,Pier Paolo Pasolini,943,1962, Italy ,110m, Urban Drama
+Floating Weeds,Yasujiro Ozu,944,1959, Japan ,119m, Drama
+Une Femme est une femme,Jean-Luc Godard,945,1961, France ,83m, Romantic Comedy
+Chikamatsu monogatari,Kenji Mizoguchi,946,1954, Japan ,100m, Melodrama
+Subarnarekha,Ritwik Ghatak,947,1965, India ,143m, DramaAbhi Bhattacharya
+A Man for All Seasons,Fred Zinnemann,948,1966, UK ,120m, Historical Film
+HÃ¤xan,Benjamin Christensen,949,1922, Sweden ,83m, Supernatural Horror
+Ten,Abbas Kiarostami,950,2002, France-Iran ,92m, Avant-garde-Experimental
+Ceddo,Ousmane Sembene,951,1977, Senegal ,117m, Drama
+Twin Peaks: Fire Walk with Me,David Lynch,952,1992, USA ,135m, Mystery
+La Collectionneuse,Eric Rohmer,953,1966, France ,88m, Comedy Drama
+The Loneliness of the Long Distance Runner,Tony Richardson,954,1962, UK ,103m, Psychological Drama
+Shanghai Express,Josef von Sternberg,955,1932, USA ,80m, Drama
+L'ArrivÃ©e d'un train Ã  la Ciotat,August Lumière & Louis Lumière,956,1895, France ,1m, Short Film
+Beyond the Valley of the Dolls,Russ Meyer,957,1970, USA ,109m, Sexploitation
+Cairo Station,Youssef Chahine,958,1958, Egypt ,76m, Drama
+Kwaidan,Masaki Kobayashi,959,1964, Japan ,164m, Fantasy
+Phantom of the Paradise,Brian De Palma,960,1974, USA ,92m, Rock Musical
+Princess Yang Kwei Fei,Kenji Mizoguchi,961,1955, Japan-Hong Kong ,98m, Historical Film
+Sawdust and Tinsel,Ingmar Bergman,962,1953, Sweden ,92m, Drama
+True Heart Susie,D.W. Griffith,963,1919, USA ,87m, Romance
+The Saragossa Manuscript,Wojciech Has,964,1965, Poland ,182m, Fantasy
+Pickpocket,Jia Zhangke,965,1997, China-Hong Kong ,108m, Drama
+Witness,Peter Weir,966,1985, USA ,112m, Crime Thriller
+War and Peace,Sergei Bondarchuk,967,1967, USSR ,357m, Epic
+Being John Malkovich,Spike Jonze,968,1999, USA ,112m, Comedy
+Ã nous la libertÃ©,René Clair,969,1931,87m, BW , Comedy
+The Story of Qiu Ju,Zhang Yimou,970,1992, China-Hong Kong ,100m, Rural Drama
+From the Clouds to the Resistance,Jean-Marie Straub & Danièle Huillet,971,1979, Italy-West Germany-UK-France ,104m, DramaOlimpia Carlisi
+Kill Bill Vol. 1,Quentin Tarantino,972,2003, USA ,111m, Action Thriller
+Lone Star,John Sayles,973,1996, USA ,135m, Drama
+Outskirts,Boris Barnet,974,1933, USSR ,98m, War Drama
+Touchez pas au Grisbi,Jacques Becker,975,1954, France ,94m, Crime
+The Rocky Horror Picture Show,Jim Sharman,976,1975, UK ,95m, Horror Comedy
+Design for Living,Ernst Lubitsch,977,1933, USA ,90m, Romance
+The Sting,George Roy Hill,978,1973, USA ,129m, Crime Comedy
+O Bandido da Luz Vermelha,Rogério Sganzerla,979,1968, Brazil ,92m, BiopicPaulo Villaca
+Scarecrow,Jerry Schatzberg,980,1973, USA ,108m, Drama
+Ruggles of Red Gap,Leo McCarey,981,1935, USA ,92m, Comedy of Manners
+Hellzapoppin',H.C. Potter,982,1941, USA ,84m, Anarchic Comedy
+Mothlight,Stan Brakhage,983,1963, USA ,4m," Avant-garde-Experimental""Mothlight visualises a “day in the life” of an insect from birth to death… You could say Brakhage puts the “anima” back into animation"
+The Indian Tomb,Fritz Lang,984,1959, West Germany-France-Italy ,95m, Romantic Adventure
+Red Beard,Akira Kurosawa,985,1965, Japan ,185m, Period Film
+The Fountainhead,King Vidor,986,1949, USA ,114m, Drama
+Bad Timing,Nicolas Roeg,987,1980, UK ,129m, Mystery
+The Big Red One,"Fuller, Samuel",988,1980, USA ,113m, Combat Film
+Johnny Got His Gun,Dalton Trumbo,989,1971, USA ,111m, War Drama
+L'Amour fou,Jacques Rivette,990,1968, France ,252m, Showbiz Drama
+Unsere Afrikareise,Peter Kubelka,991,1966, Austria ,13m,"Avant-garde-Experimental""In 1961 Peter Kubelka was asked to make a documentary about a group of Europeans on an African hunting trip. He accompanied them"
+The Nightmare Before Christmas,Henry Selick,992,1993, USA ,76m, Fantasy
+They Live,John Carpenter,993,1988, USA ,93m, Alien Film
+Heimat,Edgar Reitz,994,1984, West Germany ,940m, Epic
+In Praise of Love,Jean-Luc Godard,995,2001, France ,97m, DramaBruno Putzulu
+Dead Poets Society,Peter Weir,996,1989, USA ,128m, Coming-of-Age
+Husbands and Wives,Woody Allen,997,1992, USA ,107m, Comedy Drama
+L'HumanitÃ©,Bruno Dumont,998,1999, France ,147m, Psychological Drama
+Oasis,Lee Chang-dong,999,2002, South Korea ,133m, Psychological Drama
+Sorcerer,William Friedkin,1000,1977, USA ,121m, Adventure
