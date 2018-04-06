@@ -13,7 +13,7 @@ During this process of data analysis, we aim to figure out what kind of movies a
 ### Data:
    THE 1,000 GREATEST FILMS (2018 Version)<br>
     
-### Analysis:
+### Analysis Dimension:
 - Top 15 directors in the world<br>
 - Trend of 'good' movies<br>
 - Top 1000 movies by region<br> 
