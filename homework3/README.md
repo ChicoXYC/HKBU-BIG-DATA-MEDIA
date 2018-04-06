@@ -8,10 +8,10 @@ During this process of data analysis, we aim to figure out what kind of movies a
 # Data Analysis
 
 ### Website url:
-  http://www.theyshootpictures.com/gf1000.htm
+    http://www.theyshootpictures.com/gf1000.htm
 
 ### Data:
-  THE 1,000 GREATEST FILMS (2018 Version)<br>
+    THE 1,000 GREATEST FILMS (2018 Version)<br>
     
 ### Analysis:
 - Top 15 directors in the world<br>
@@ -20,4 +20,4 @@ During this process of data analysis, we aim to figure out what kind of movies a
 - Top 1000 movies by genre<br>
 
 ### License:
-  cc 4.0
+    cc 4.0
