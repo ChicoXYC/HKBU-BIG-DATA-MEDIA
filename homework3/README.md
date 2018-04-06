@@ -16,7 +16,7 @@ During this process of data analysis, we aim to figure out what kind of movies a
 ### Analysis:
 - Top 15 directors in the world<br>
 - Trend of 'good' movies<br>
-- top 1000 movies by region<br> 
+- Top 1000 movies by region<br> 
 - Top 1000 movies by genre<br>
 
 ### License:
