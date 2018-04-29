@@ -7,11 +7,12 @@ During this process of data analysis, we aim to figure out what kind of movies a
 
 # Data Analysis
 
-### Website url:
-   http://www.theyshootpictures.com/gf1000.htm
 
-### Data:
-   THE 1,000 GREATEST FILMS (2018 Version)<br>
+
+### Data Source
+Government data from Socrata.com Airplane Crashes and Fatalities Since 1908
+World Cities Database from NGIA, US Geological Survey, US Census Bureau, and NASA Latitude and longitude of cities worldwide
+The World Bank Air transport, registered carrier departures worldwide  <br>
     
 ### Analysis Dimension:
 - Top 15 directors in the world<br>
